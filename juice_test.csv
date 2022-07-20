@@ -1,0 +1,4760 @@
+,pid,grp,duration
+0,0,Begin,1
+0,0,Orange juice,42
+0,0,Apple juice,11
+0,0,Begin,1
+1,1,Begin,1
+1,1,Orange juice,33
+1,1,Grape juice,6
+1,1,Orange juice,3
+1,1,Apple juice,11
+1,1,Begin,1
+2,2,Begin,1
+2,2,Orange juice,20
+2,2,Grapefruit juice,15
+2,2,Cranberry juice,4
+2,2,Lemon juice,5
+2,2,Grape juice,9
+2,2,Begin,1
+3,3,Begin,1
+3,3,Orange juice,7
+3,3,Grapefruit juice,3
+3,3,Orange juice,43
+3,3,Begin,1
+4,4,Begin,1
+4,4,Apple juice,53
+4,4,Begin,1
+5,5,Begin,1
+5,5,Orange juice,20
+5,5,Apple juice,33
+5,5,Begin,1
+6,6,Begin,1
+6,6,Grape juice,28
+6,6,Orange juice,25
+6,6,Begin,1
+7,7,Begin,1
+7,7,Orange juice,53
+7,7,Begin,1
+8,8,Begin,1
+8,8,Orange juice,53
+8,8,Begin,1
+9,9,Begin,1
+9,9,Orange juice,25
+9,9,Grape juice,1
+9,9,Orange juice,27
+9,9,Begin,1
+10,10,Begin,1
+10,10,Orange juice,53
+10,10,Begin,1
+11,11,Begin,1
+11,11,Orange juice,8
+11,11,Apple juice,45
+11,11,Begin,1
+12,12,Begin,1
+12,12,Orange juice,7
+12,12,Pineapple juice,21
+12,12,Orange juice,25
+12,12,Begin,1
+13,13,Begin,1
+13,13,Pineapple juice,28
+13,13,Orange juice,1
+13,13,Grape juice,1
+13,13,Orange juice,23
+13,13,Begin,1
+14,14,Begin,1
+14,14,Prune juice,5
+14,14,Apple juice,48
+14,14,Begin,1
+15,15,Begin,1
+15,15,Orange juice,7
+15,15,Grapefruit juice,3
+15,15,Apple juice,3
+15,15,Orange juice,1
+15,15,Apple juice,27
+15,15,Grapefruit juice,1
+15,15,Apple juice,11
+15,15,Begin,1
+16,16,Begin,1
+16,16,Prune juice,1
+16,16,Apple juice,1
+16,16,Orange juice,27
+16,16,Apple juice,12
+16,16,Pineapple juice,12
+16,16,Begin,1
+17,17,Begin,1
+17,17,Orange juice,53
+17,17,Begin,1
+18,18,Begin,1
+18,18,Orange juice,53
+18,18,Begin,1
+19,19,Begin,1
+19,19,Orange juice,53
+19,19,Begin,1
+20,20,Begin,1
+20,20,Apple juice,2
+20,20,Orange juice,27
+20,20,Apple juice,24
+20,20,Begin,1
+21,21,Begin,1
+21,21,Orange juice,36
+21,21,Apple juice,17
+21,21,Begin,1
+22,22,Begin,1
+22,22,Lemon juice,9
+22,22,Orange juice,44
+22,22,Begin,1
+23,23,Begin,1
+23,23,Orange juice,53
+23,23,Begin,1
+24,24,Begin,1
+24,24,Orange juice,37
+24,24,Grape juice,16
+24,24,Begin,1
+25,25,Begin,1
+25,25,Orange juice,20
+25,25,Grapefruit juice,1
+25,25,Orange juice,32
+25,25,Begin,1
+26,26,Begin,1
+26,26,Orange juice,29
+26,26,Grape juice,13
+26,26,Apple juice,1
+26,26,Orange juice,10
+26,26,Begin,1
+27,27,Begin,1
+27,27,Grape juice,15
+27,27,Pineapple juice,8
+27,27,Orange juice,30
+27,27,Begin,1
+28,28,Begin,1
+28,28,Orange juice,15
+28,28,Grapefruit juice,6
+28,28,Cranberry juice,32
+28,28,Begin,1
+29,29,Begin,1
+29,29,Orange juice,53
+29,29,Begin,1
+30,30,Begin,1
+30,30,Orange juice,20
+30,30,Apple juice,1
+30,30,Cranberry juice,2
+30,30,Orange juice,30
+30,30,Begin,1
+31,31,Begin,1
+31,31,Orange juice,8
+31,31,Apple juice,8
+31,31,Pineapple juice,37
+31,31,Begin,1
+32,32,Begin,1
+32,32,Orange juice,12
+32,32,Apple juice,9
+32,32,Orange juice,25
+32,32,Apple juice,7
+32,32,Begin,1
+33,33,Begin,1
+33,33,Orange juice,53
+33,33,Begin,1
+34,34,Begin,1
+34,34,Orange juice,53
+34,34,Begin,1
+35,35,Begin,1
+35,35,Apple juice,2
+35,35,Orange juice,6
+35,35,Grape juice,1
+35,35,Orange juice,44
+35,35,Begin,1
+36,36,Begin,1
+36,36,Orange juice,53
+36,36,Begin,1
+37,37,Begin,1
+37,37,Orange juice,53
+37,37,Begin,1
+38,38,Begin,1
+38,38,Orange juice,53
+38,38,Begin,1
+39,39,Begin,1
+39,39,Orange juice,53
+39,39,Begin,1
+40,40,Begin,1
+40,40,Apple juice,3
+40,40,Lemon juice,3
+40,40,Orange juice,11
+40,40,Apple juice,36
+40,40,Begin,1
+41,41,Begin,1
+41,41,Grape juice,15
+41,41,Grapefruit juice,3
+41,41,Apple juice,3
+41,41,Orange juice,32
+41,41,Begin,1
+42,42,Begin,1
+42,42,Orange juice,17
+42,42,Apple juice,36
+42,42,Begin,1
+43,43,Begin,1
+43,43,Grapefruit juice,10
+43,43,Apple juice,43
+43,43,Begin,1
+44,44,Begin,1
+44,44,Orange juice,53
+44,44,Begin,1
+45,45,Begin,1
+45,45,Grape juice,26
+45,45,Orange juice,11
+45,45,Grapefruit juice,11
+45,45,Cranberry juice,5
+45,45,Begin,1
+46,46,Begin,1
+46,46,Orange juice,17
+46,46,Pineapple juice,6
+46,46,Orange juice,6
+46,46,Pineapple juice,24
+46,46,Begin,1
+47,47,Begin,1
+47,47,Apple juice,27
+47,47,Grapefruit juice,18
+47,47,Lemon juice,8
+47,47,Begin,1
+48,48,Begin,1
+48,48,Orange juice,31
+48,48,Prune juice,1
+48,48,Cranberry juice,21
+48,48,Begin,1
+49,49,Begin,1
+49,49,Grape juice,5
+49,49,Lemon juice,4
+49,49,Apple juice,44
+49,49,Begin,1
+50,50,Begin,1
+50,50,Orange juice,8
+50,50,Grapefruit juice,2
+50,50,Apple juice,3
+50,50,Orange juice,40
+50,50,Begin,1
+51,51,Begin,1
+51,51,Grapefruit juice,16
+51,51,Orange juice,21
+51,51,Apple juice,4
+51,51,Grapefruit juice,1
+51,51,Apple juice,11
+51,51,Begin,1
+52,52,Begin,1
+52,52,Orange juice,53
+52,52,Begin,1
+53,53,Begin,1
+53,53,Orange juice,17
+53,53,Grapefruit juice,13
+53,53,Lemon juice,2
+53,53,Cranberry juice,21
+53,53,Begin,1
+54,54,Begin,1
+54,54,Orange juice,12
+54,54,Apple juice,7
+54,54,Grape juice,34
+54,54,Begin,1
+55,55,Begin,1
+55,55,Orange juice,53
+55,55,Begin,1
+56,56,Begin,1
+56,56,Grape juice,23
+56,56,Orange juice,30
+56,56,Begin,1
+57,57,Begin,1
+57,57,Prune juice,5
+57,57,Lemon juice,9
+57,57,Apple juice,39
+57,57,Begin,1
+58,58,Begin,1
+58,58,Orange juice,53
+58,58,Begin,1
+59,59,Begin,1
+59,59,Apple juice,53
+59,59,Begin,1
+60,60,Begin,1
+60,60,Apple juice,13
+60,60,Orange juice,40
+60,60,Begin,1
+61,61,Begin,1
+61,61,Pineapple juice,2
+61,61,Orange juice,34
+61,61,Cranberry juice,17
+61,61,Begin,1
+62,62,Begin,1
+62,62,Pineapple juice,2
+62,62,Orange juice,51
+62,62,Begin,1
+63,63,Begin,1
+63,63,Orange juice,1
+63,63,Grapefruit juice,13
+63,63,Apple juice,7
+63,63,Orange juice,24
+63,63,Apple juice,8
+63,63,Begin,1
+64,64,Begin,1
+64,64,Orange juice,44
+64,64,Apple juice,9
+64,64,Begin,1
+65,65,Begin,1
+65,65,Orange juice,53
+65,65,Begin,1
+66,66,Begin,1
+66,66,Orange juice,8
+66,66,Grape juice,18
+66,66,Orange juice,27
+66,66,Begin,1
+67,67,Begin,1
+67,67,Orange juice,1
+67,67,Grapefruit juice,9
+67,67,Orange juice,7
+67,67,Apple juice,36
+67,67,Begin,1
+68,68,Begin,1
+68,68,Orange juice,53
+68,68,Begin,1
+69,69,Begin,1
+69,69,Orange juice,7
+69,69,Grapefruit juice,14
+69,69,Orange juice,32
+69,69,Begin,1
+70,70,Begin,1
+70,70,Orange juice,8
+70,70,Apple juice,45
+70,70,Begin,1
+71,71,Begin,1
+71,71,Orange juice,53
+71,71,Begin,1
+72,72,Begin,1
+72,72,Orange juice,17
+72,72,Apple juice,36
+72,72,Begin,1
+73,73,Begin,1
+73,73,Orange juice,12
+73,73,Apple juice,41
+73,73,Begin,1
+74,74,Begin,1
+74,74,Orange juice,8
+74,74,Grapefruit juice,6
+74,74,Pineapple juice,39
+74,74,Begin,1
+75,75,Begin,1
+75,75,Orange juice,53
+75,75,Begin,1
+76,76,Begin,1
+76,76,Apple juice,3
+76,76,Lemon juice,3
+76,76,Orange juice,47
+76,76,Begin,1
+77,77,Begin,1
+77,77,Orange juice,20
+77,77,Lemon juice,2
+77,77,Apple juice,31
+77,77,Begin,1
+78,78,Begin,1
+78,78,Orange juice,25
+78,78,Grapefruit juice,8
+78,78,Apple juice,20
+78,78,Begin,1
+79,79,Begin,1
+79,79,Apple juice,3
+79,79,Grapefruit juice,18
+79,79,Orange juice,21
+79,79,Cranberry juice,7
+79,79,Grape juice,4
+79,79,Begin,1
+80,80,Begin,1
+80,80,Orange juice,42
+80,80,Apple juice,11
+80,80,Begin,1
+81,81,Begin,1
+81,81,Orange juice,25
+81,81,Pineapple juice,5
+81,81,Orange juice,23
+81,81,Begin,1
+82,82,Begin,1
+82,82,Grape juice,2
+82,82,Orange juice,51
+82,82,Begin,1
+83,83,Begin,1
+83,83,Prune juice,5
+83,83,Lemon juice,1
+83,83,Orange juice,38
+83,83,Grape juice,1
+83,83,Apple juice,8
+83,83,Begin,1
+84,84,Begin,1
+84,84,Orange juice,53
+84,84,Begin,1
+85,85,Begin,1
+85,85,Apple juice,2
+85,85,Orange juice,27
+85,85,Apple juice,24
+85,85,Begin,1
+86,86,Begin,1
+86,86,Orange juice,12
+86,86,Apple juice,4
+86,86,Orange juice,6
+86,86,Apple juice,31
+86,86,Begin,1
+87,87,Begin,1
+87,87,Orange juice,14
+87,87,Apple juice,2
+87,87,Orange juice,29
+87,87,Apple juice,8
+87,87,Begin,1
+88,88,Begin,1
+88,88,Orange juice,20
+88,88,Apple juice,1
+88,88,Orange juice,32
+88,88,Begin,1
+89,89,Begin,1
+89,89,Orange juice,29
+89,89,Apple juice,24
+89,89,Begin,1
+90,90,Begin,1
+90,90,Orange juice,20
+90,90,Lemon juice,12
+90,90,Grape juice,6
+90,90,Cranberry juice,15
+90,90,Begin,1
+91,91,Begin,1
+91,91,Pineapple juice,3
+91,91,Cranberry juice,20
+91,91,Grapefruit juice,16
+91,91,Orange juice,14
+91,91,Begin,1
+92,92,Begin,1
+92,92,Orange juice,29
+92,92,Pineapple juice,8
+92,92,Grape juice,16
+92,92,Begin,1
+93,93,Begin,1
+93,93,Orange juice,53
+93,93,Begin,1
+94,94,Begin,1
+94,94,Orange juice,14
+94,94,Apple juice,7
+94,94,Cranberry juice,32
+94,94,Begin,1
+95,95,Begin,1
+95,95,Orange juice,53
+95,95,Begin,1
+96,96,Begin,1
+96,96,Orange juice,20
+96,96,Grapefruit juice,1
+96,96,Orange juice,8
+96,96,Grape juice,13
+96,96,Cranberry juice,11
+96,96,Begin,1
+97,97,Begin,1
+97,97,Orange juice,15
+97,97,Grapefruit juice,1
+97,97,Orange juice,9
+97,97,Grape juice,3
+97,97,Orange juice,19
+97,97,Apple juice,6
+97,97,Begin,1
+98,98,Begin,1
+98,98,Orange juice,20
+98,98,Apple juice,33
+98,98,Begin,1
+99,99,Begin,1
+99,99,Orange juice,20
+99,99,Apple juice,15
+99,99,Grape juice,4
+99,99,Orange juice,14
+99,99,Begin,1
+100,100,Begin,1
+100,100,Orange juice,14
+100,100,Apple juice,2
+100,100,Pineapple juice,7
+100,100,Orange juice,30
+100,100,Begin,1
+101,101,Begin,1
+101,101,Pineapple juice,21
+101,101,Orange juice,10
+101,101,Apple juice,22
+101,101,Begin,1
+102,102,Begin,1
+102,102,Orange juice,14
+102,102,Apple juice,39
+102,102,Begin,1
+103,103,Begin,1
+103,103,Orange juice,53
+103,103,Begin,1
+104,104,Begin,1
+104,104,Orange juice,8
+104,104,Apple juice,13
+104,104,Orange juice,21
+104,104,Apple juice,11
+104,104,Begin,1
+105,105,Begin,1
+105,105,Orange juice,53
+105,105,Begin,1
+106,106,Begin,1
+106,106,Pineapple juice,3
+106,106,Grape juice,2
+106,106,Lemon juice,20
+106,106,Grape juice,3
+106,106,Orange juice,25
+106,106,Begin,1
+107,107,Begin,1
+107,107,Orange juice,20
+107,107,Grapefruit juice,10
+107,107,Orange juice,23
+107,107,Begin,1
+108,108,Begin,1
+108,108,Orange juice,53
+108,108,Begin,1
+109,109,Begin,1
+109,109,Orange juice,8
+109,109,Grapefruit juice,2
+109,109,Apple juice,43
+109,109,Begin,1
+110,110,Begin,1
+110,110,Grape juice,9
+110,110,Apple juice,44
+110,110,Begin,1
+111,111,Begin,1
+111,111,Prune juice,26
+111,111,Orange juice,27
+111,111,Begin,1
+112,112,Begin,1
+112,112,Orange juice,17
+112,112,Grape juice,21
+112,112,Cranberry juice,11
+112,112,Grapefruit juice,4
+112,112,Begin,1
+113,113,Begin,1
+113,113,Orange juice,1
+113,113,Grape juice,1
+113,113,Orange juice,29
+113,113,Apple juice,22
+113,113,Begin,1
+114,114,Begin,1
+114,114,Grapefruit juice,6
+114,114,Orange juice,47
+114,114,Begin,1
+115,115,Begin,1
+115,115,Orange juice,17
+115,115,Pineapple juice,6
+115,115,Orange juice,19
+115,115,Apple juice,11
+115,115,Begin,1
+116,116,Begin,1
+116,116,Apple juice,3
+116,116,Lemon juice,1
+116,116,Apple juice,2
+116,116,Orange juice,6
+116,116,Apple juice,7
+116,116,Grapefruit juice,14
+116,116,Grape juice,20
+116,116,Begin,1
+117,117,Begin,1
+117,117,Orange juice,7
+117,117,Apple juice,8
+117,117,Grapefruit juice,1
+117,117,Orange juice,37
+117,117,Begin,1
+118,118,Begin,1
+118,118,Orange juice,20
+118,118,Apple juice,33
+118,118,Begin,1
+119,119,Begin,1
+119,119,Orange juice,19
+119,119,Grape juice,4
+119,119,Orange juice,14
+119,119,Grapefruit juice,3
+119,119,Prune juice,2
+119,119,Apple juice,11
+119,119,Begin,1
+120,120,Begin,1
+120,120,Orange juice,53
+120,120,Begin,1
+121,121,Begin,1
+121,121,Orange juice,15
+121,121,Grapefruit juice,27
+121,121,Apple juice,11
+121,121,Begin,1
+122,122,Begin,1
+122,122,Orange juice,29
+122,122,Grape juice,10
+122,122,Orange juice,14
+122,122,Begin,1
+123,123,Begin,1
+123,123,Grape juice,7
+123,123,Lemon juice,6
+123,123,Orange juice,40
+123,123,Begin,1
+124,124,Begin,1
+124,124,Orange juice,20
+124,124,Apple juice,33
+124,124,Begin,1
+125,125,Begin,1
+125,125,Apple juice,2
+125,125,Orange juice,31
+125,125,Apple juice,20
+125,125,Begin,1
+126,126,Begin,1
+126,126,Prune juice,3
+126,126,Grape juice,2
+126,126,Lemon juice,1
+126,126,Orange juice,2
+126,126,Apple juice,27
+126,126,Grape juice,3
+126,126,Cranberry juice,15
+126,126,Begin,1
+127,127,Begin,1
+127,127,Orange juice,53
+127,127,Begin,1
+128,128,Begin,1
+128,128,Pineapple juice,2
+128,128,Orange juice,51
+128,128,Begin,1
+129,129,Begin,1
+129,129,Orange juice,29
+129,129,Grape juice,1
+129,129,Orange juice,6
+129,129,Apple juice,17
+129,129,Begin,1
+130,130,Begin,1
+130,130,Orange juice,25
+130,130,Pineapple juice,1
+130,130,Orange juice,27
+130,130,Begin,1
+131,131,Begin,1
+131,131,Apple juice,13
+131,131,Orange juice,40
+131,131,Begin,1
+132,132,Begin,1
+132,132,Orange juice,53
+132,132,Begin,1
+133,133,Begin,1
+133,133,Orange juice,36
+133,133,Apple juice,17
+133,133,Begin,1
+134,134,Begin,1
+134,134,Grapefruit juice,10
+134,134,Apple juice,31
+134,134,Grape juice,12
+134,134,Begin,1
+135,135,Begin,1
+135,135,Grapefruit juice,5
+135,135,Apple juice,20
+135,135,Grape juice,3
+135,135,Orange juice,25
+135,135,Begin,1
+136,136,Begin,1
+136,136,Orange juice,1
+136,136,Grape juice,1
+136,136,Orange juice,18
+136,136,Grapefruit juice,15
+136,136,Grape juice,4
+136,136,Orange juice,10
+136,136,Grapefruit juice,4
+136,136,Begin,1
+137,137,Begin,1
+137,137,Orange juice,20
+137,137,Grapefruit juice,1
+137,137,Orange juice,32
+137,137,Begin,1
+138,138,Begin,1
+138,138,Orange juice,36
+138,138,Apple juice,17
+138,138,Begin,1
+139,139,Begin,1
+139,139,Grapefruit juice,16
+139,139,Pineapple juice,24
+139,139,Apple juice,13
+139,139,Begin,1
+140,140,Begin,1
+140,140,Orange juice,53
+140,140,Begin,1
+141,141,Begin,1
+141,141,Orange juice,8
+141,141,Grape juice,22
+141,141,Orange juice,23
+141,141,Begin,1
+142,142,Begin,1
+142,142,Apple juice,11
+142,142,Grapefruit juice,24
+142,142,Grape juice,18
+142,142,Begin,1
+143,143,Begin,1
+143,143,Orange juice,12
+143,143,Apple juice,18
+143,143,Orange juice,10
+143,143,Apple juice,1
+143,143,Cranberry juice,12
+143,143,Begin,1
+144,144,Begin,1
+144,144,Orange juice,17
+144,144,Grape juice,11
+144,144,Orange juice,25
+144,144,Begin,1
+145,145,Begin,1
+145,145,Orange juice,20
+145,145,Pineapple juice,14
+145,145,Lime juice,19
+145,145,Begin,1
+146,146,Begin,1
+146,146,Grapefruit juice,21
+146,146,Orange juice,32
+146,146,Begin,1
+147,147,Begin,1
+147,147,Pineapple juice,30
+147,147,Orange juice,23
+147,147,Begin,1
+148,148,Begin,1
+148,148,Grape juice,2
+148,148,Orange juice,13
+148,148,Pineapple juice,13
+148,148,Apple juice,25
+148,148,Begin,1
+149,149,Begin,1
+149,149,Apple juice,6
+149,149,Orange juice,47
+149,149,Begin,1
+150,150,Begin,1
+150,150,Orange juice,53
+150,150,Begin,1
+151,151,Begin,1
+151,151,Orange juice,1
+151,151,Grape juice,6
+151,151,Apple juice,4
+151,151,Prune juice,10
+151,151,Orange juice,12
+151,151,Apple juice,20
+151,151,Begin,1
+152,152,Begin,1
+152,152,Orange juice,17
+152,152,Grapefruit juice,1
+152,152,Orange juice,11
+152,152,Apple juice,24
+152,152,Begin,1
+153,153,Begin,1
+153,153,Grapefruit juice,6
+153,153,Orange juice,19
+153,153,Grape juice,1
+153,153,Orange juice,27
+153,153,Begin,1
+154,154,Begin,1
+154,154,Orange juice,53
+154,154,Begin,1
+155,155,Begin,1
+155,155,Orange juice,53
+155,155,Begin,1
+156,156,Begin,1
+156,156,Orange juice,53
+156,156,Begin,1
+157,157,Begin,1
+157,157,Orange juice,17
+157,157,Pineapple juice,31
+157,157,Cranberry juice,5
+157,157,Begin,1
+158,158,Begin,1
+158,158,Orange juice,53
+158,158,Begin,1
+159,159,Begin,1
+159,159,Orange juice,53
+159,159,Begin,1
+160,160,Begin,1
+160,160,Apple juice,53
+160,160,Begin,1
+161,161,Begin,1
+161,161,Pineapple juice,26
+161,161,Orange juice,10
+161,161,Apple juice,17
+161,161,Begin,1
+162,162,Begin,1
+162,162,Orange juice,53
+162,162,Begin,1
+163,163,Begin,1
+163,163,Orange juice,8
+163,163,Grape juice,1
+163,163,Apple juice,26
+163,163,Grape juice,4
+163,163,Orange juice,14
+163,163,Begin,1
+164,164,Begin,1
+164,164,Orange juice,25
+164,164,Grape juice,3
+164,164,Orange juice,25
+164,164,Begin,1
+165,165,Begin,1
+165,165,Apple juice,21
+165,165,Orange juice,11
+165,165,Apple juice,21
+165,165,Begin,1
+166,166,Begin,1
+166,166,Orange juice,8
+166,166,Grape juice,1
+166,166,Apple juice,2
+166,166,Lemon juice,1
+166,166,Apple juice,41
+166,166,Begin,1
+167,167,Begin,1
+167,167,Grapefruit juice,6
+167,167,Orange juice,6
+167,167,Apple juice,41
+167,167,Begin,1
+168,168,Begin,1
+168,168,Orange juice,8
+168,168,Apple juice,11
+168,168,Grapefruit juice,2
+168,168,Orange juice,32
+168,168,Begin,1
+169,169,Begin,1
+169,169,Orange juice,53
+169,169,Begin,1
+170,170,Begin,1
+170,170,Prune juice,1
+170,170,Grape juice,4
+170,170,Apple juice,14
+170,170,Grapefruit juice,3
+170,170,Apple juice,31
+170,170,Begin,1
+171,171,Begin,1
+171,171,Orange juice,17
+171,171,Pineapple juice,36
+171,171,Begin,1
+172,172,Begin,1
+172,172,Pineapple juice,4
+172,172,Prune juice,6
+172,172,Apple juice,11
+172,172,Orange juice,32
+172,172,Begin,1
+173,173,Begin,1
+173,173,Orange juice,29
+173,173,Apple juice,24
+173,173,Begin,1
+174,174,Begin,1
+174,174,Orange juice,53
+174,174,Begin,1
+175,175,Begin,1
+175,175,Prune juice,5
+175,175,Apple juice,48
+175,175,Begin,1
+176,176,Begin,1
+176,176,Pineapple juice,1
+176,176,Grapefruit juice,5
+176,176,Orange juice,14
+176,176,Pineapple juice,3
+176,176,Grapefruit juice,10
+176,176,Apple juice,8
+176,176,Orange juice,12
+176,176,Begin,1
+177,177,Begin,1
+177,177,Orange juice,17
+177,177,Grapefruit juice,9
+177,177,Orange juice,27
+177,177,Begin,1
+178,178,Begin,1
+178,178,Orange juice,8
+178,178,Apple juice,45
+178,178,Begin,1
+179,179,Begin,1
+179,179,Grapefruit juice,4
+179,179,Prune juice,22
+179,179,Orange juice,19
+179,179,Cranberry juice,8
+179,179,Begin,1
+180,180,Begin,1
+180,180,Orange juice,53
+180,180,Begin,1
+181,181,Begin,1
+181,181,Orange juice,7
+181,181,Apple juice,12
+181,181,Grape juice,34
+181,181,Begin,1
+182,182,Begin,1
+182,182,Orange juice,53
+182,182,Begin,1
+183,183,Begin,1
+183,183,Orange juice,29
+183,183,Grape juice,9
+183,183,Grapefruit juice,6
+183,183,Apple juice,9
+183,183,Begin,1
+184,184,Begin,1
+184,184,Orange juice,53
+184,184,Begin,1
+185,185,Begin,1
+185,185,Orange juice,12
+185,185,Apple juice,7
+185,185,Grapefruit juice,2
+185,185,Orange juice,32
+185,185,Begin,1
+186,186,Begin,1
+186,186,Orange juice,15
+186,186,Grapefruit juice,7
+186,186,Grape juice,8
+186,186,Orange juice,6
+186,186,Cranberry juice,17
+186,186,Begin,1
+187,187,Begin,1
+187,187,Orange juice,8
+187,187,Grapefruit juice,5
+187,187,Orange juice,40
+187,187,Begin,1
+188,188,Begin,1
+188,188,Apple juice,11
+188,188,Lemon juice,1
+188,188,Apple juice,23
+188,188,Grape juice,18
+188,188,Begin,1
+189,189,Begin,1
+189,189,Orange juice,31
+189,189,Grapefruit juice,1
+189,189,Cranberry juice,15
+189,189,Apple juice,6
+189,189,Begin,1
+190,190,Begin,1
+190,190,Apple juice,19
+190,190,Grapefruit juice,7
+190,190,Orange juice,14
+190,190,Apple juice,13
+190,190,Begin,1
+191,191,Begin,1
+191,191,Orange juice,47
+191,191,Apple juice,6
+191,191,Begin,1
+192,192,Begin,1
+192,192,Orange juice,20
+192,192,Pineapple juice,4
+192,192,Grapefruit juice,6
+192,192,Orange juice,23
+192,192,Begin,1
+193,193,Begin,1
+193,193,Prune juice,1
+193,193,Apple juice,1
+193,193,Orange juice,51
+193,193,Begin,1
+194,194,Begin,1
+194,194,Orange juice,36
+194,194,Apple juice,17
+194,194,Begin,1
+195,195,Begin,1
+195,195,Grape juice,9
+195,195,Orange juice,44
+195,195,Begin,1
+196,196,Begin,1
+196,196,Grapefruit juice,10
+196,196,Apple juice,11
+196,196,Orange juice,32
+196,196,Begin,1
+197,197,Begin,1
+197,197,Grapefruit juice,13
+197,197,Grape juice,13
+197,197,Orange juice,27
+197,197,Begin,1
+198,198,Begin,1
+198,198,Orange juice,29
+198,198,Apple juice,24
+198,198,Begin,1
+199,199,Begin,1
+199,199,Orange juice,53
+199,199,Begin,1
+200,200,Begin,1
+200,200,Orange juice,53
+200,200,Begin,1
+201,201,Begin,1
+201,201,Grapefruit juice,4
+201,201,Apple juice,21
+201,201,Grape juice,3
+201,201,Orange juice,25
+201,201,Begin,1
+202,202,Begin,1
+202,202,Prune juice,5
+202,202,Lemon juice,20
+202,202,Grape juice,5
+202,202,Orange juice,23
+202,202,Begin,1
+203,203,Begin,1
+203,203,Orange juice,20
+203,203,Grapefruit juice,1
+203,203,Cranberry juice,13
+203,203,Apple juice,19
+203,203,Begin,1
+204,204,Begin,1
+204,204,Prune juice,3
+204,204,Lemon juice,1
+204,204,Apple juice,49
+204,204,Begin,1
+205,205,Begin,1
+205,205,Pineapple juice,3
+205,205,Grapefruit juice,1
+205,205,Apple juice,31
+205,205,Pineapple juice,2
+205,205,Grapefruit juice,8
+205,205,Apple juice,8
+205,205,Begin,1
+206,206,Begin,1
+206,206,Pineapple juice,13
+206,206,Orange juice,16
+206,206,Grape juice,24
+206,206,Begin,1
+207,207,Begin,1
+207,207,Apple juice,49
+207,207,Lemon juice,4
+207,207,Begin,1
+208,208,Begin,1
+208,208,Orange juice,53
+208,208,Begin,1
+209,209,Begin,1
+209,209,Orange juice,12
+209,209,Apple juice,41
+209,209,Begin,1
+210,210,Begin,1
+210,210,Pineapple juice,37
+210,210,Grape juice,16
+210,210,Begin,1
+211,211,Begin,1
+211,211,Orange juice,20
+211,211,Grapefruit juice,2
+211,211,Apple juice,1
+211,211,Grapefruit juice,13
+211,211,Apple juice,17
+211,211,Begin,1
+212,212,Begin,1
+212,212,Orange juice,53
+212,212,Begin,1
+213,213,Begin,1
+213,213,Orange juice,53
+213,213,Begin,1
+214,214,Begin,1
+214,214,Orange juice,25
+214,214,Pineapple juice,9
+214,214,Apple juice,19
+214,214,Begin,1
+215,215,Begin,1
+215,215,Orange juice,20
+215,215,Apple juice,33
+215,215,Begin,1
+216,216,Begin,1
+216,216,Orange juice,8
+216,216,Apple juice,33
+216,216,Grape juice,12
+216,216,Begin,1
+217,217,Begin,1
+217,217,Orange juice,29
+217,217,Apple juice,24
+217,217,Begin,1
+218,218,Begin,1
+218,218,Orange juice,53
+218,218,Begin,1
+219,219,Begin,1
+219,219,Orange juice,53
+219,219,Begin,1
+220,220,Begin,1
+220,220,Apple juice,30
+220,220,Orange juice,1
+220,220,Grapefruit juice,4
+220,220,Orange juice,14
+220,220,Lime juice,4
+220,220,Begin,1
+221,221,Begin,1
+221,221,Orange juice,46
+221,221,Pineapple juice,2
+221,221,Apple juice,5
+221,221,Begin,1
+222,222,Begin,1
+222,222,Orange juice,53
+222,222,Begin,1
+223,223,Begin,1
+223,223,Orange juice,22
+223,223,Grape juice,6
+223,223,Orange juice,25
+223,223,Begin,1
+224,224,Begin,1
+224,224,Prune juice,14
+224,224,Apple juice,39
+224,224,Begin,1
+225,225,Begin,1
+225,225,Orange juice,42
+225,225,Apple juice,11
+225,225,Begin,1
+226,226,Begin,1
+226,226,Orange juice,20
+226,226,Grapefruit juice,1
+226,226,Orange juice,16
+226,226,Apple juice,4
+226,226,Orange juice,12
+226,226,Begin,1
+227,227,Begin,1
+227,227,Orange juice,53
+227,227,Begin,1
+228,228,Begin,1
+228,228,Orange juice,40
+228,228,Apple juice,13
+228,228,Begin,1
+229,229,Begin,1
+229,229,Orange juice,8
+229,229,Grapefruit juice,2
+229,229,Lemon juice,6
+229,229,Orange juice,37
+229,229,Begin,1
+230,230,Begin,1
+230,230,Orange juice,53
+230,230,Begin,1
+231,231,Begin,1
+231,231,Grapefruit juice,4
+231,231,Orange juice,49
+231,231,Begin,1
+232,232,Begin,1
+232,232,Orange juice,5
+232,232,Lemon juice,1
+232,232,Orange juice,47
+232,232,Begin,1
+233,233,Begin,1
+233,233,Pineapple juice,34
+233,233,Apple juice,19
+233,233,Begin,1
+234,234,Begin,1
+234,234,Pineapple juice,28
+234,234,Orange juice,25
+234,234,Begin,1
+235,235,Begin,1
+235,235,Orange juice,8
+235,235,Apple juice,13
+235,235,Orange juice,15
+235,235,Apple juice,17
+235,235,Begin,1
+236,236,Begin,1
+236,236,Grapefruit juice,6
+236,236,Orange juice,47
+236,236,Begin,1
+237,237,Begin,1
+237,237,Orange juice,12
+237,237,Apple juice,41
+237,237,Begin,1
+238,238,Begin,1
+238,238,Orange juice,8
+238,238,Apple juice,45
+238,238,Begin,1
+239,239,Begin,1
+239,239,Orange juice,31
+239,239,Apple juice,22
+239,239,Begin,1
+240,240,Begin,1
+240,240,Apple juice,21
+240,240,Orange juice,32
+240,240,Begin,1
+241,241,Begin,1
+241,241,Orange juice,36
+241,241,Apple juice,17
+241,241,Begin,1
+242,242,Begin,1
+242,242,Orange juice,8
+242,242,Pineapple juice,5
+242,242,Orange juice,24
+242,242,Grape juice,16
+242,242,Begin,1
+243,243,Begin,1
+243,243,Orange juice,53
+243,243,Begin,1
+244,244,Begin,1
+244,244,Orange juice,17
+244,244,Grapefruit juice,16
+244,244,Grape juice,6
+244,244,Orange juice,14
+244,244,Begin,1
+245,245,Begin,1
+245,245,Apple juice,6
+245,245,Orange juice,11
+245,245,Apple juice,10
+245,245,Lemon juice,5
+245,245,Grape juice,10
+245,245,Apple juice,11
+245,245,Begin,1
+246,246,Begin,1
+246,246,Orange juice,53
+246,246,Begin,1
+247,247,Begin,1
+247,247,Orange juice,53
+247,247,Begin,1
+248,248,Begin,1
+248,248,Orange juice,8
+248,248,Grapefruit juice,24
+248,248,Apple juice,21
+248,248,Begin,1
+249,249,Begin,1
+249,249,Grapefruit juice,13
+249,249,Orange juice,12
+249,249,Grape juice,3
+249,249,Orange juice,25
+249,249,Begin,1
+250,250,Begin,1
+250,250,Prune juice,3
+250,250,Lemon juice,3
+250,250,Orange juice,31
+250,250,Apple juice,4
+250,250,Grapefruit juice,5
+250,250,Apple juice,7
+250,250,Begin,1
+251,251,Begin,1
+251,251,Grapefruit juice,18
+251,251,Apple juice,3
+251,251,Grape juice,3
+251,251,Grapefruit juice,8
+251,251,Cranberry juice,17
+251,251,Grapefruit juice,4
+251,251,Begin,1
+252,252,Begin,1
+252,252,Orange juice,53
+252,252,Begin,1
+253,253,Begin,1
+253,253,Grapefruit juice,9
+253,253,Apple juice,44
+253,253,Begin,1
+254,254,Begin,1
+254,254,Orange juice,53
+254,254,Begin,1
+255,255,Begin,1
+255,255,Orange juice,20
+255,255,Grapefruit juice,1
+255,255,Orange juice,32
+255,255,Begin,1
+256,256,Begin,1
+256,256,Orange juice,53
+256,256,Begin,1
+257,257,Begin,1
+257,257,Apple juice,21
+257,257,Orange juice,32
+257,257,Begin,1
+258,258,Begin,1
+258,258,Orange juice,53
+258,258,Begin,1
+259,259,Begin,1
+259,259,Orange juice,1
+259,259,Grapefruit juice,39
+259,259,Prune juice,13
+259,259,Begin,1
+260,260,Begin,1
+260,260,Orange juice,47
+260,260,Apple juice,6
+260,260,Begin,1
+261,261,Begin,1
+261,261,Orange juice,17
+261,261,Cranberry juice,6
+261,261,Grapefruit juice,3
+261,261,Orange juice,3
+261,261,Apple juice,12
+261,261,Orange juice,12
+261,261,Begin,1
+262,262,Begin,1
+262,262,Grapefruit juice,6
+262,262,Orange juice,47
+262,262,Begin,1
+263,263,Begin,1
+263,263,Orange juice,25
+263,263,Pineapple juice,3
+263,263,Orange juice,25
+263,263,Begin,1
+264,264,Begin,1
+264,264,Orange juice,20
+264,264,Apple juice,21
+264,264,Lemon juice,12
+264,264,Begin,1
+265,265,Begin,1
+265,265,Apple juice,53
+265,265,Begin,1
+266,266,Begin,1
+266,266,Orange juice,46
+266,266,Pineapple juice,7
+266,266,Begin,1
+267,267,Begin,1
+267,267,Orange juice,15
+267,267,Grapefruit juice,3
+267,267,Orange juice,35
+267,267,Begin,1
+268,268,Begin,1
+268,268,Orange juice,33
+268,268,Apple juice,10
+268,268,Grape juice,10
+268,268,Begin,1
+269,269,Begin,1
+269,269,Prune juice,1
+269,269,Apple juice,10
+269,269,Grapefruit juice,3
+269,269,Cranberry juice,16
+269,269,Orange juice,23
+269,269,Begin,1
+270,270,Begin,1
+270,270,Pineapple juice,4
+270,270,Prune juice,9
+270,270,Orange juice,40
+270,270,Begin,1
+271,271,Begin,1
+271,271,Orange juice,53
+271,271,Begin,1
+272,272,Begin,1
+272,272,Orange juice,7
+272,272,Grapefruit juice,37
+272,272,Pineapple juice,9
+272,272,Begin,1
+273,273,Begin,1
+273,273,Grapefruit juice,10
+273,273,Apple juice,15
+273,273,Pineapple juice,5
+273,273,Orange juice,15
+273,273,Apple juice,8
+273,273,Begin,1
+274,274,Begin,1
+274,274,Orange juice,17
+274,274,Apple juice,36
+274,274,Begin,1
+275,275,Begin,1
+275,275,Orange juice,8
+275,275,Apple juice,5
+275,275,Orange juice,40
+275,275,Begin,1
+276,276,Begin,1
+276,276,Grapefruit juice,45
+276,276,Apple juice,8
+276,276,Begin,1
+277,277,Begin,1
+277,277,Orange juice,53
+277,277,Begin,1
+278,278,Begin,1
+278,278,Orange juice,42
+278,278,Apple juice,11
+278,278,Begin,1
+279,279,Begin,1
+279,279,Orange juice,1
+279,279,Grape juice,6
+279,279,Pineapple juice,4
+279,279,Lemon juice,3
+279,279,Apple juice,39
+279,279,Begin,1
+280,280,Begin,1
+280,280,Apple juice,25
+280,280,Pineapple juice,12
+280,280,Grapefruit juice,11
+280,280,Cranberry juice,5
+280,280,Begin,1
+281,281,Begin,1
+281,281,Pineapple juice,24
+281,281,Orange juice,29
+281,281,Begin,1
+282,282,Begin,1
+282,282,Apple juice,53
+282,282,Begin,1
+283,283,Begin,1
+283,283,Apple juice,11
+283,283,Lemon juice,2
+283,283,Orange juice,7
+283,283,Grapefruit juice,8
+283,283,Orange juice,25
+283,283,Begin,1
+284,284,Begin,1
+284,284,Pineapple juice,13
+284,284,Orange juice,40
+284,284,Begin,1
+285,285,Begin,1
+285,285,Orange juice,20
+285,285,Apple juice,1
+285,285,Orange juice,10
+285,285,Grapefruit juice,8
+285,285,Lemon juice,14
+285,285,Begin,1
+286,286,Begin,1
+286,286,Apple juice,3
+286,286,Lemon juice,1
+286,286,Apple juice,9
+286,286,Orange juice,7
+286,286,Apple juice,1
+286,286,Orange juice,28
+286,286,Grape juice,4
+286,286,Begin,1
+287,287,Begin,1
+287,287,Orange juice,12
+287,287,Pineapple juice,16
+287,287,Orange juice,25
+287,287,Begin,1
+288,288,Begin,1
+288,288,Orange juice,1
+288,288,Grapefruit juice,8
+288,288,Orange juice,5
+288,288,Apple juice,5
+288,288,Grapefruit juice,2
+288,288,Orange juice,32
+288,288,Begin,1
+289,289,Begin,1
+289,289,Orange juice,8
+289,289,Apple juice,7
+289,289,Grapefruit juice,25
+289,289,Apple juice,13
+289,289,Begin,1
+290,290,Begin,1
+290,290,Grapefruit juice,9
+290,290,Pineapple juice,44
+290,290,Begin,1
+291,291,Begin,1
+291,291,Grapefruit juice,4
+291,291,Cranberry juice,43
+291,291,Apple juice,6
+291,291,Begin,1
+292,292,Begin,1
+292,292,Pineapple juice,2
+292,292,Orange juice,20
+292,292,Apple juice,19
+292,292,Grape juice,1
+292,292,Apple juice,11
+292,292,Begin,1
+293,293,Begin,1
+293,293,Grapefruit juice,2
+293,293,Orange juice,15
+293,293,Grapefruit juice,5
+293,293,Apple juice,1
+293,293,Prune juice,18
+293,293,Orange juice,12
+293,293,Begin,1
+294,294,Begin,1
+294,294,Grape juice,15
+294,294,Pineapple juice,8
+294,294,Orange juice,14
+294,294,Apple juice,16
+294,294,Begin,1
+295,295,Begin,1
+295,295,Orange juice,53
+295,295,Begin,1
+296,296,Begin,1
+296,296,Orange juice,53
+296,296,Begin,1
+297,297,Begin,1
+297,297,Orange juice,8
+297,297,Apple juice,45
+297,297,Begin,1
+298,298,Begin,1
+298,298,Orange juice,53
+298,298,Begin,1
+299,299,Begin,1
+299,299,Pineapple juice,21
+299,299,Orange juice,32
+299,299,Begin,1
+300,300,Begin,1
+300,300,Orange juice,1
+300,300,Grapefruit juice,3
+300,300,Apple juice,49
+300,300,Begin,1
+301,301,Begin,1
+301,301,Grapefruit juice,35
+301,301,Cranberry juice,18
+301,301,Begin,1
+302,302,Begin,1
+302,302,Orange juice,17
+302,302,Pineapple juice,9
+302,302,Orange juice,27
+302,302,Begin,1
+303,303,Begin,1
+303,303,Orange juice,12
+303,303,Apple juice,41
+303,303,Begin,1
+304,304,Begin,1
+304,304,Orange juice,8
+304,304,Pineapple juice,45
+304,304,Begin,1
+305,305,Begin,1
+305,305,Orange juice,8
+305,305,Apple juice,19
+305,305,Grapefruit juice,26
+305,305,Begin,1
+306,306,Begin,1
+306,306,Orange juice,14
+306,306,Apple juice,13
+306,306,Orange juice,26
+306,306,Begin,1
+307,307,Begin,1
+307,307,Orange juice,20
+307,307,Lemon juice,5
+307,307,Grape juice,3
+307,307,Orange juice,25
+307,307,Begin,1
+308,308,Begin,1
+308,308,Orange juice,17
+308,308,Lemon juice,15
+308,308,Pineapple juice,21
+308,308,Begin,1
+309,309,Begin,1
+309,309,Apple juice,21
+309,309,Orange juice,1
+309,309,Apple juice,3
+309,309,Grape juice,1
+309,309,Orange juice,27
+309,309,Begin,1
+310,310,Begin,1
+310,310,Orange juice,33
+310,310,Apple juice,2
+310,310,Grape juice,18
+310,310,Begin,1
+311,311,Begin,1
+311,311,Orange juice,32
+311,311,Cranberry juice,21
+311,311,Begin,1
+312,312,Begin,1
+312,312,Orange juice,5
+312,312,Lemon juice,13
+312,312,Orange juice,2
+312,312,Pineapple juice,3
+312,312,Grapefruit juice,17
+312,312,Apple juice,13
+312,312,Begin,1
+313,313,Begin,1
+313,313,Orange juice,8
+313,313,Apple juice,3
+313,313,Grapefruit juice,2
+313,313,Orange juice,7
+313,313,Apple juice,33
+313,313,Begin,1
+314,314,Begin,1
+314,314,Grapefruit juice,21
+314,314,Orange juice,32
+314,314,Begin,1
+315,315,Begin,1
+315,315,Orange juice,12
+315,315,Apple juice,41
+315,315,Begin,1
+316,316,Begin,1
+316,316,Orange juice,19
+316,316,Grapefruit juice,11
+316,316,Orange juice,16
+316,316,Apple juice,7
+316,316,Begin,1
+317,317,Begin,1
+317,317,Orange juice,53
+317,317,Begin,1
+318,318,Begin,1
+318,318,Orange juice,36
+318,318,Apple juice,17
+318,318,Begin,1
+319,319,Begin,1
+319,319,Orange juice,15
+319,319,Grapefruit juice,3
+319,319,Orange juice,11
+319,319,Apple juice,24
+319,319,Begin,1
+320,320,Begin,1
+320,320,Orange juice,53
+320,320,Begin,1
+321,321,Begin,1
+321,321,Lemon juice,4
+321,321,Apple juice,37
+321,321,Pineapple juice,4
+321,321,Lemon juice,8
+321,321,Begin,1
+322,322,Begin,1
+322,322,Orange juice,36
+322,322,Pineapple juice,12
+322,322,Grape juice,5
+322,322,Begin,1
+323,323,Begin,1
+323,323,Orange juice,14
+323,323,Apple juice,39
+323,323,Begin,1
+324,324,Begin,1
+324,324,Orange juice,40
+324,324,Apple juice,13
+324,324,Begin,1
+325,325,Begin,1
+325,325,Orange juice,20
+325,325,Grapefruit juice,1
+325,325,Orange juice,32
+325,325,Begin,1
+326,326,Begin,1
+326,326,Orange juice,8
+326,326,Apple juice,33
+326,326,Orange juice,12
+326,326,Begin,1
+327,327,Begin,1
+327,327,Orange juice,17
+327,327,Pineapple juice,9
+327,327,Orange juice,3
+327,327,Grape juice,10
+327,327,Orange juice,14
+327,327,Begin,1
+328,328,Begin,1
+328,328,Orange juice,37
+328,328,Prune juice,2
+328,328,Orange juice,14
+328,328,Begin,1
+329,329,Begin,1
+329,329,Pineapple juice,4
+329,329,Apple juice,49
+329,329,Begin,1
+330,330,Begin,1
+330,330,Pineapple juice,48
+330,330,Grape juice,5
+330,330,Begin,1
+331,331,Begin,1
+331,331,Orange juice,45
+331,331,Apple juice,8
+331,331,Begin,1
+332,332,Begin,1
+332,332,Orange juice,11
+332,332,Lemon juice,7
+332,332,Apple juice,1
+332,332,Grapefruit juice,2
+332,332,Orange juice,32
+332,332,Begin,1
+333,333,Begin,1
+333,333,Grapefruit juice,13
+333,333,Orange juice,4
+333,333,Grape juice,6
+333,333,Orange juice,14
+333,333,Grape juice,16
+333,333,Begin,1
+334,334,Begin,1
+334,334,Orange juice,45
+334,334,Apple juice,8
+334,334,Begin,1
+335,335,Begin,1
+335,335,Orange juice,53
+335,335,Begin,1
+336,336,Begin,1
+336,336,Orange juice,45
+336,336,Apple juice,8
+336,336,Begin,1
+337,337,Begin,1
+337,337,Orange juice,53
+337,337,Begin,1
+338,338,Begin,1
+338,338,Grapefruit juice,21
+338,338,Orange juice,21
+338,338,Apple juice,11
+338,338,Begin,1
+339,339,Begin,1
+339,339,Orange juice,53
+339,339,Begin,1
+340,340,Begin,1
+340,340,Orange juice,20
+340,340,Apple juice,1
+340,340,Orange juice,8
+340,340,Grape juice,24
+340,340,Begin,1
+341,341,Begin,1
+341,341,Orange juice,53
+341,341,Begin,1
+342,342,Begin,1
+342,342,Orange juice,20
+342,342,Apple juice,1
+342,342,Orange juice,8
+342,342,Cranberry juice,24
+342,342,Begin,1
+343,343,Begin,1
+343,343,Orange juice,29
+343,343,Grape juice,1
+343,343,Orange juice,23
+343,343,Begin,1
+344,344,Begin,1
+344,344,Pineapple juice,11
+344,344,Grapefruit juice,2
+344,344,Orange juice,7
+344,344,Grapefruit juice,1
+344,344,Orange juice,4
+344,344,Pineapple juice,15
+344,344,Apple juice,13
+344,344,Begin,1
+345,345,Begin,1
+345,345,Apple juice,53
+345,345,Begin,1
+346,346,Begin,1
+346,346,Orange juice,29
+346,346,Grape juice,1
+346,346,Orange juice,23
+346,346,Begin,1
+347,347,Begin,1
+347,347,Orange juice,20
+347,347,Apple juice,23
+347,347,Grape juice,10
+347,347,Begin,1
+348,348,Begin,1
+348,348,Orange juice,17
+348,348,Apple juice,24
+348,348,Orange juice,1
+348,348,Apple juice,11
+348,348,Begin,1
+349,349,Begin,1
+349,349,Orange juice,29
+349,349,Grape juice,1
+349,349,Orange juice,23
+349,349,Begin,1
+350,350,Begin,1
+350,350,Orange juice,31
+350,350,Apple juice,22
+350,350,Begin,1
+351,351,Begin,1
+351,351,Orange juice,53
+351,351,Begin,1
+352,352,Begin,1
+352,352,Orange juice,53
+352,352,Begin,1
+353,353,Begin,1
+353,353,Prune juice,28
+353,353,Orange juice,12
+353,353,Apple juice,13
+353,353,Begin,1
+354,354,Begin,1
+354,354,Orange juice,42
+354,354,Apple juice,11
+354,354,Begin,1
+355,355,Begin,1
+355,355,Orange juice,33
+355,355,Apple juice,10
+355,355,Grape juice,10
+355,355,Begin,1
+356,356,Begin,1
+356,356,Orange juice,33
+356,356,Apple juice,2
+356,356,Pineapple juice,2
+356,356,Grape juice,16
+356,356,Begin,1
+357,357,Begin,1
+357,357,Orange juice,7
+357,357,Grapefruit juice,6
+357,357,Orange juice,1
+357,357,Apple juice,39
+357,357,Begin,1
+358,358,Begin,1
+358,358,Grapefruit juice,21
+358,358,Orange juice,8
+358,358,Apple juice,24
+358,358,Begin,1
+359,359,Begin,1
+359,359,Prune juice,2
+359,359,Orange juice,6
+359,359,Apple juice,3
+359,359,Grapefruit juice,3
+359,359,Apple juice,9
+359,359,Orange juice,13
+359,359,Apple juice,5
+359,359,Grape juice,4
+359,359,Apple juice,8
+359,359,Begin,1
+360,360,Begin,1
+360,360,Orange juice,53
+360,360,Begin,1
+361,361,Begin,1
+361,361,Orange juice,12
+361,361,Pineapple juice,18
+361,361,Orange juice,23
+361,361,Begin,1
+362,362,Begin,1
+362,362,Orange juice,53
+362,362,Begin,1
+363,363,Begin,1
+363,363,Apple juice,41
+363,363,Grapefruit juice,12
+363,363,Begin,1
+364,364,Begin,1
+364,364,Orange juice,17
+364,364,Lemon juice,11
+364,364,Orange juice,25
+364,364,Begin,1
+365,365,Begin,1
+365,365,Apple juice,19
+365,365,Grape juice,11
+365,365,Orange juice,23
+365,365,Begin,1
+366,366,Begin,1
+366,366,Apple juice,6
+366,366,Orange juice,14
+366,366,Apple juice,19
+366,366,Orange juice,14
+366,366,Begin,1
+367,367,Begin,1
+367,367,Orange juice,19
+367,367,Grapefruit juice,2
+367,367,Orange juice,10
+367,367,Apple juice,22
+367,367,Begin,1
+368,368,Begin,1
+368,368,Orange juice,31
+368,368,Apple juice,22
+368,368,Begin,1
+369,369,Begin,1
+369,369,Prune juice,53
+369,369,Begin,1
+370,370,Begin,1
+370,370,Orange juice,53
+370,370,Begin,1
+371,371,Begin,1
+371,371,Orange juice,17
+371,371,Grapefruit juice,1
+371,371,Orange juice,11
+371,371,Apple juice,24
+371,371,Begin,1
+372,372,Begin,1
+372,372,Grapefruit juice,13
+372,372,Orange juice,40
+372,372,Begin,1
+373,373,Begin,1
+373,373,Orange juice,8
+373,373,Cranberry juice,45
+373,373,Begin,1
+374,374,Begin,1
+374,374,Orange juice,53
+374,374,Begin,1
+375,375,Begin,1
+375,375,Orange juice,20
+375,375,Pineapple juice,3
+375,375,Orange juice,6
+375,375,Pineapple juice,19
+375,375,Cranberry juice,5
+375,375,Begin,1
+376,376,Begin,1
+376,376,Apple juice,3
+376,376,Grape juice,36
+376,376,Orange juice,14
+376,376,Begin,1
+377,377,Begin,1
+377,377,Orange juice,17
+377,377,Grape juice,7
+377,377,Orange juice,29
+377,377,Begin,1
+378,378,Begin,1
+378,378,Apple juice,2
+378,378,Orange juice,27
+378,378,Apple juice,24
+378,378,Begin,1
+379,379,Begin,1
+379,379,Cranberry juice,37
+379,379,Apple juice,16
+379,379,Begin,1
+380,380,Begin,1
+380,380,Grapefruit juice,5
+380,380,Lemon juice,1
+380,380,Orange juice,5
+380,380,Lemon juice,14
+380,380,Grape juice,3
+380,380,Orange juice,5
+380,380,Lemon juice,1
+380,380,Apple juice,19
+380,380,Begin,1
+381,381,Begin,1
+381,381,Orange juice,14
+381,381,Apple juice,7
+381,381,Orange juice,32
+381,381,Begin,1
+382,382,Begin,1
+382,382,Orange juice,20
+382,382,Apple juice,33
+382,382,Begin,1
+383,383,Begin,1
+383,383,Orange juice,8
+383,383,Apple juice,5
+383,383,Orange juice,40
+383,383,Begin,1
+384,384,Begin,1
+384,384,Pineapple juice,1
+384,384,Grape juice,1
+384,384,Orange juice,6
+384,384,Pineapple juice,45
+384,384,Begin,1
+385,385,Begin,1
+385,385,Orange juice,38
+385,385,Cranberry juice,15
+385,385,Begin,1
+386,386,Begin,1
+386,386,Orange juice,53
+386,386,Begin,1
+387,387,Begin,1
+387,387,Orange juice,53
+387,387,Begin,1
+388,388,Begin,1
+388,388,Orange juice,12
+388,388,Apple juice,41
+388,388,Begin,1
+389,389,Begin,1
+389,389,Orange juice,40
+389,389,Apple juice,13
+389,389,Begin,1
+390,390,Begin,1
+390,390,Orange juice,14
+390,390,Apple juice,5
+390,390,Grapefruit juice,3
+390,390,Grape juice,1
+390,390,Prune juice,16
+390,390,Orange juice,8
+390,390,Apple juice,6
+390,390,Begin,1
+391,391,Begin,1
+391,391,Pineapple juice,11
+391,391,Lemon juice,7
+391,391,Apple juice,1
+391,391,Grape juice,20
+391,391,Orange juice,14
+391,391,Begin,1
+392,392,Begin,1
+392,392,Orange juice,53
+392,392,Begin,1
+393,393,Begin,1
+393,393,Prune juice,5
+393,393,Lemon juice,7
+393,393,Apple juice,7
+393,393,Grapefruit juice,2
+393,393,Orange juice,1
+393,393,Grape juice,6
+393,393,Apple juice,25
+393,393,Begin,1
+394,394,Begin,1
+394,394,Apple juice,6
+394,394,Orange juice,47
+394,394,Begin,1
+395,395,Begin,1
+395,395,Orange juice,53
+395,395,Begin,1
+396,396,Begin,1
+396,396,Orange juice,7
+396,396,Apple juice,20
+396,396,Grapefruit juice,5
+396,396,Pineapple juice,21
+396,396,Begin,1
+397,397,Begin,1
+397,397,Orange juice,53
+397,397,Begin,1
+398,398,Begin,1
+398,398,Grapefruit juice,4
+398,398,Apple juice,49
+398,398,Begin,1
+399,399,Begin,1
+399,399,Apple juice,3
+399,399,Grapefruit juice,2
+399,399,Lemon juice,1
+399,399,Orange juice,47
+399,399,Begin,1
+400,400,Begin,1
+400,400,Apple juice,21
+400,400,Orange juice,8
+400,400,Pineapple juice,5
+400,400,Apple juice,19
+400,400,Begin,1
+401,401,Begin,1
+401,401,Pineapple juice,11
+401,401,Lemon juice,2
+401,401,Orange juice,23
+401,401,Pineapple juice,12
+401,401,Cranberry juice,5
+401,401,Begin,1
+402,402,Begin,1
+402,402,Orange juice,25
+402,402,Grape juice,14
+402,402,Orange juice,14
+402,402,Begin,1
+403,403,Begin,1
+403,403,Orange juice,37
+403,403,Grape juice,2
+403,403,Orange juice,6
+403,403,Apple juice,8
+403,403,Begin,1
+404,404,Begin,1
+404,404,Orange juice,15
+404,404,Grapefruit juice,1
+404,404,Orange juice,4
+404,404,Apple juice,33
+404,404,Begin,1
+405,405,Begin,1
+405,405,Orange juice,8
+405,405,Grape juice,1
+405,405,Apple juice,44
+405,405,Begin,1
+406,406,Begin,1
+406,406,Grapefruit juice,16
+406,406,Pineapple juice,12
+406,406,Apple juice,25
+406,406,Begin,1
+407,407,Begin,1
+407,407,Apple juice,53
+407,407,Begin,1
+408,408,Begin,1
+408,408,Prune juice,10
+408,408,Orange juice,2
+408,408,Apple juice,9
+408,408,Orange juice,24
+408,408,Apple juice,8
+408,408,Begin,1
+409,409,Begin,1
+409,409,Orange juice,8
+409,409,Grape juice,18
+409,409,Orange juice,7
+409,409,Grape juice,12
+409,409,Apple juice,8
+409,409,Begin,1
+410,410,Begin,1
+410,410,Grapefruit juice,16
+410,410,Orange juice,4
+410,410,Apple juice,33
+410,410,Begin,1
+411,411,Begin,1
+411,411,Orange juice,29
+411,411,Grape juice,24
+411,411,Begin,1
+412,412,Begin,1
+412,412,Orange juice,53
+412,412,Begin,1
+413,413,Begin,1
+413,413,Orange juice,14
+413,413,Apple juice,39
+413,413,Begin,1
+414,414,Begin,1
+414,414,Grape juice,53
+414,414,Begin,1
+415,415,Begin,1
+415,415,Apple juice,2
+415,415,Orange juice,17
+415,415,Grapefruit juice,23
+415,415,Apple juice,11
+415,415,Begin,1
+416,416,Begin,1
+416,416,Orange juice,11
+416,416,Lemon juice,3
+416,416,Apple juice,5
+416,416,Grape juice,4
+416,416,Orange juice,6
+416,416,Apple juice,6
+416,416,Grape juice,10
+416,416,Apple juice,8
+416,416,Begin,1
+417,417,Begin,1
+417,417,Orange juice,12
+417,417,Prune juice,1
+417,417,Orange juice,23
+417,417,Apple juice,17
+417,417,Begin,1
+418,418,Begin,1
+418,418,Orange juice,20
+418,418,Apple juice,1
+418,418,Orange juice,32
+418,418,Begin,1
+419,419,Begin,1
+419,419,Grape juice,9
+419,419,Apple juice,26
+419,419,Cranberry juice,18
+419,419,Begin,1
+420,420,Begin,1
+420,420,Pineapple juice,2
+420,420,Orange juice,15
+420,420,Grape juice,9
+420,420,Orange juice,16
+420,420,Apple juice,11
+420,420,Begin,1
+421,421,Begin,1
+421,421,Orange juice,7
+421,421,Apple juice,6
+421,421,Orange juice,4
+421,421,Apple juice,18
+421,421,Grape juice,3
+421,421,Cranberry juice,15
+421,421,Begin,1
+422,422,Begin,1
+422,422,Orange juice,25
+422,422,Grape juice,3
+422,422,Orange juice,17
+422,422,Apple juice,8
+422,422,Begin,1
+423,423,Begin,1
+423,423,Grapefruit juice,10
+423,423,Orange juice,43
+423,423,Begin,1
+424,424,Begin,1
+424,424,Orange juice,53
+424,424,Begin,1
+425,425,Begin,1
+425,425,Orange juice,40
+425,425,Apple juice,13
+425,425,Begin,1
+426,426,Begin,1
+426,426,Orange juice,53
+426,426,Begin,1
+427,427,Begin,1
+427,427,Orange juice,12
+427,427,Apple juice,9
+427,427,Orange juice,32
+427,427,Begin,1
+428,428,Begin,1
+428,428,Orange juice,31
+428,428,Pineapple juice,22
+428,428,Begin,1
+429,429,Begin,1
+429,429,Orange juice,25
+429,429,Grape juice,22
+429,429,Apple juice,6
+429,429,Begin,1
+430,430,Begin,1
+430,430,Orange juice,53
+430,430,Begin,1
+431,431,Begin,1
+431,431,Grape juice,9
+431,431,Orange juice,3
+431,431,Apple juice,9
+431,431,Orange juice,23
+431,431,Apple juice,9
+431,431,Begin,1
+432,432,Begin,1
+432,432,Apple juice,2
+432,432,Orange juice,27
+432,432,Grape juice,24
+432,432,Begin,1
+433,433,Begin,1
+433,433,Cranberry juice,30
+433,433,Orange juice,23
+433,433,Begin,1
+434,434,Begin,1
+434,434,Orange juice,31
+434,434,Lemon juice,1
+434,434,Cranberry juice,15
+434,434,Apple juice,6
+434,434,Begin,1
+435,435,Begin,1
+435,435,Orange juice,53
+435,435,Begin,1
+436,436,Begin,1
+436,436,Grapefruit juice,13
+436,436,Orange juice,40
+436,436,Begin,1
+437,437,Begin,1
+437,437,Grapefruit juice,5
+437,437,Lemon juice,4
+437,437,Apple juice,4
+437,437,Grape juice,15
+437,437,Orange juice,25
+437,437,Begin,1
+438,438,Begin,1
+438,438,Grapefruit juice,6
+438,438,Orange juice,47
+438,438,Begin,1
+439,439,Begin,1
+439,439,Orange juice,8
+439,439,Grapefruit juice,1
+439,439,Pineapple juice,25
+439,439,Apple juice,19
+439,439,Begin,1
+440,440,Begin,1
+440,440,Grape juice,10
+440,440,Apple juice,43
+440,440,Begin,1
+441,441,Begin,1
+441,441,Grapefruit juice,6
+441,441,Orange juice,47
+441,441,Begin,1
+442,442,Begin,1
+442,442,Orange juice,53
+442,442,Begin,1
+443,443,Begin,1
+443,443,Orange juice,53
+443,443,Begin,1
+444,444,Begin,1
+444,444,Orange juice,20
+444,444,Grapefruit juice,10
+444,444,Orange juice,23
+444,444,Begin,1
+445,445,Begin,1
+445,445,Orange juice,45
+445,445,Apple juice,8
+445,445,Begin,1
+446,446,Begin,1
+446,446,Orange juice,12
+446,446,Apple juice,1
+446,446,Orange juice,40
+446,446,Begin,1
+447,447,Begin,1
+447,447,Orange juice,15
+447,447,Pineapple juice,33
+447,447,Orange juice,5
+447,447,Begin,1
+448,448,Begin,1
+448,448,Orange juice,20
+448,448,Grapefruit juice,15
+448,448,Orange juice,18
+448,448,Begin,1
+449,449,Begin,1
+449,449,Orange juice,1
+449,449,Grapefruit juice,13
+449,449,Pineapple juice,14
+449,449,Orange juice,25
+449,449,Begin,1
+450,450,Begin,1
+450,450,Orange juice,17
+450,450,Lemon juice,36
+450,450,Begin,1
+451,451,Begin,1
+451,451,Orange juice,29
+451,451,Apple juice,24
+451,451,Begin,1
+452,452,Begin,1
+452,452,Orange juice,14
+452,452,Apple juice,16
+452,452,Lemon juice,4
+452,452,Apple juice,19
+452,452,Begin,1
+453,453,Begin,1
+453,453,Orange juice,29
+453,453,Apple juice,12
+453,453,Orange juice,12
+453,453,Begin,1
+454,454,Begin,1
+454,454,Apple juice,2
+454,454,Orange juice,18
+454,454,Apple juice,21
+454,454,Grape juice,12
+454,454,Begin,1
+455,455,Begin,1
+455,455,Orange juice,47
+455,455,Apple juice,6
+455,455,Begin,1
+456,456,Begin,1
+456,456,Orange juice,53
+456,456,Begin,1
+457,457,Begin,1
+457,457,Orange juice,17
+457,457,Grapefruit juice,1
+457,457,Orange juice,1
+457,457,Grape juice,9
+457,457,Orange juice,25
+457,457,Begin,1
+458,458,Begin,1
+458,458,Orange juice,53
+458,458,Begin,1
+459,459,Begin,1
+459,459,Orange juice,8
+459,459,Grapefruit juice,8
+459,459,Orange juice,37
+459,459,Begin,1
+460,460,Begin,1
+460,460,Orange juice,53
+460,460,Begin,1
+461,461,Begin,1
+461,461,Orange juice,15
+461,461,Grapefruit juice,1
+461,461,Orange juice,37
+461,461,Begin,1
+462,462,Begin,1
+462,462,Orange juice,20
+462,462,Apple juice,33
+462,462,Begin,1
+463,463,Begin,1
+463,463,Orange juice,14
+463,463,Apple juice,27
+463,463,Grape juice,12
+463,463,Begin,1
+464,464,Begin,1
+464,464,Orange juice,20
+464,464,Apple juice,33
+464,464,Begin,1
+465,465,Begin,1
+465,465,Orange juice,53
+465,465,Begin,1
+466,466,Begin,1
+466,466,Orange juice,53
+466,466,Begin,1
+467,467,Begin,1
+467,467,Orange juice,22
+467,467,Apple juice,31
+467,467,Begin,1
+468,468,Begin,1
+468,468,Orange juice,14
+468,468,Apple juice,21
+468,468,Grape juice,18
+468,468,Begin,1
+469,469,Begin,1
+469,469,Orange juice,17
+469,469,Pineapple juice,23
+469,469,Apple juice,13
+469,469,Begin,1
+470,470,Begin,1
+470,470,Orange juice,17
+470,470,Grapefruit juice,4
+470,470,Orange juice,32
+470,470,Begin,1
+471,471,Begin,1
+471,471,Apple juice,2
+471,471,Orange juice,10
+471,471,Apple juice,1
+471,471,Orange juice,40
+471,471,Begin,1
+472,472,Begin,1
+472,472,Orange juice,53
+472,472,Begin,1
+473,473,Begin,1
+473,473,Orange juice,12
+473,473,Apple juice,41
+473,473,Begin,1
+474,474,Begin,1
+474,474,Orange juice,53
+474,474,Begin,1
+475,475,Begin,1
+475,475,Orange juice,14
+475,475,Apple juice,27
+475,475,Grape juice,6
+475,475,Apple juice,6
+475,475,Begin,1
+476,476,Begin,1
+476,476,Grapefruit juice,13
+476,476,Orange juice,29
+476,476,Apple juice,1
+476,476,Orange juice,10
+476,476,Begin,1
+477,477,Begin,1
+477,477,Orange juice,17
+477,477,Grapefruit juice,1
+477,477,Pineapple juice,5
+477,477,Orange juice,6
+477,477,Cranberry juice,15
+477,477,Apple juice,9
+477,477,Begin,1
+478,478,Begin,1
+478,478,Orange juice,12
+478,478,Apple juice,3
+478,478,Grapefruit juice,7
+478,478,Apple juice,31
+478,478,Begin,1
+479,479,Begin,1
+479,479,Orange juice,37
+479,479,Grape juice,16
+479,479,Begin,1
+480,480,Begin,1
+480,480,Orange juice,8
+480,480,Apple juice,45
+480,480,Begin,1
+481,481,Begin,1
+481,481,Orange juice,20
+481,481,Grapefruit juice,1
+481,481,Grape juice,7
+481,481,Orange juice,25
+481,481,Begin,1
+482,482,Begin,1
+482,482,Orange juice,14
+482,482,Cranberry juice,17
+482,482,Apple juice,22
+482,482,Begin,1
+483,483,Begin,1
+483,483,Grape juice,9
+483,483,Pineapple juice,1
+483,483,Orange juice,10
+483,483,Apple juice,33
+483,483,Begin,1
+484,484,Begin,1
+484,484,Grapefruit juice,6
+484,484,Orange juice,47
+484,484,Begin,1
+485,485,Begin,1
+485,485,Orange juice,53
+485,485,Begin,1
+486,486,Begin,1
+486,486,Orange juice,53
+486,486,Begin,1
+487,487,Begin,1
+487,487,Orange juice,15
+487,487,Grapefruit juice,3
+487,487,Orange juice,35
+487,487,Begin,1
+488,488,Begin,1
+488,488,Orange juice,53
+488,488,Begin,1
+489,489,Begin,1
+489,489,Apple juice,11
+489,489,Grapefruit juice,2
+489,489,Orange juice,40
+489,489,Begin,1
+490,490,Begin,1
+490,490,Orange juice,29
+490,490,Grape juice,1
+490,490,Orange juice,23
+490,490,Begin,1
+491,491,Begin,1
+491,491,Orange juice,32
+491,491,Cranberry juice,21
+491,491,Begin,1
+492,492,Begin,1
+492,492,Prune juice,5
+492,492,Lemon juice,1
+492,492,Prune juice,7
+492,492,Orange juice,7
+492,492,Grapefruit juice,1
+492,492,Orange juice,16
+492,492,Grape juice,1
+492,492,Pineapple juice,15
+492,492,Begin,1
+493,493,Begin,1
+493,493,Orange juice,53
+493,493,Begin,1
+494,494,Begin,1
+494,494,Orange juice,53
+494,494,Begin,1
+495,495,Begin,1
+495,495,Orange juice,53
+495,495,Begin,1
+496,496,Begin,1
+496,496,Orange juice,15
+496,496,Grapefruit juice,27
+496,496,Apple juice,11
+496,496,Begin,1
+497,497,Begin,1
+497,497,Apple juice,53
+497,497,Begin,1
+498,498,Begin,1
+498,498,Orange juice,53
+498,498,Begin,1
+499,499,Begin,1
+499,499,Orange juice,53
+499,499,Begin,1
+500,500,Begin,1
+500,500,Grapefruit juice,6
+500,500,Orange juice,47
+500,500,Begin,1
+501,501,Begin,1
+501,501,Orange juice,53
+501,501,Begin,1
+502,502,Begin,1
+502,502,Prune juice,5
+502,502,Lemon juice,4
+502,502,Apple juice,26
+502,502,Grape juice,18
+502,502,Begin,1
+503,503,Begin,1
+503,503,Orange juice,22
+503,503,Apple juice,17
+503,503,Orange juice,14
+503,503,Begin,1
+504,504,Begin,1
+504,504,Orange juice,53
+504,504,Begin,1
+505,505,Begin,1
+505,505,Prune juice,3
+505,505,Grapefruit juice,7
+505,505,Apple juice,31
+505,505,Cranberry juice,6
+505,505,Lemon juice,1
+505,505,Cranberry juice,5
+505,505,Begin,1
+506,506,Begin,1
+506,506,Orange juice,8
+506,506,Cranberry juice,45
+506,506,Begin,1
+507,507,Begin,1
+507,507,Orange juice,8
+507,507,Grape juice,1
+507,507,Apple juice,4
+507,507,Orange juice,40
+507,507,Begin,1
+508,508,Begin,1
+508,508,Orange juice,20
+508,508,Apple juice,33
+508,508,Begin,1
+509,509,Begin,1
+509,509,Orange juice,14
+509,509,Apple juice,39
+509,509,Begin,1
+510,510,Begin,1
+510,510,Orange juice,20
+510,510,Apple juice,33
+510,510,Begin,1
+511,511,Begin,1
+511,511,Orange juice,33
+511,511,Lemon juice,9
+511,511,Apple juice,11
+511,511,Begin,1
+512,512,Begin,1
+512,512,Cranberry juice,13
+512,512,Grape juice,11
+512,512,Grapefruit juice,6
+512,512,Orange juice,23
+512,512,Begin,1
+513,513,Begin,1
+513,513,Orange juice,14
+513,513,Apple juice,39
+513,513,Begin,1
+514,514,Begin,1
+514,514,Apple juice,19
+514,514,Grapefruit juice,2
+514,514,Orange juice,8
+514,514,Pineapple juice,5
+514,514,Apple juice,1
+514,514,Orange juice,18
+514,514,Begin,1
+515,515,Begin,1
+515,515,Apple juice,53
+515,515,Begin,1
+516,516,Begin,1
+516,516,Orange juice,8
+516,516,Grape juice,1
+516,516,Pineapple juice,4
+516,516,Orange juice,9
+516,516,Apple juice,31
+516,516,Begin,1
+517,517,Begin,1
+517,517,Prune juice,10
+517,517,Apple juice,43
+517,517,Begin,1
+518,518,Begin,1
+518,518,Orange juice,20
+518,518,Grapefruit juice,1
+518,518,Orange juice,32
+518,518,Begin,1
+519,519,Begin,1
+519,519,Orange juice,17
+519,519,Apple juice,4
+519,519,Orange juice,32
+519,519,Begin,1
+520,520,Begin,1
+520,520,Orange juice,53
+520,520,Begin,1
+521,521,Begin,1
+521,521,Apple juice,3
+521,521,Grape juice,20
+521,521,Orange juice,30
+521,521,Begin,1
+522,522,Begin,1
+522,522,Apple juice,3
+522,522,Grape juice,6
+522,522,Orange juice,44
+522,522,Begin,1
+523,523,Begin,1
+523,523,Orange juice,14
+523,523,Apple juice,21
+523,523,Lemon juice,1
+523,523,Apple juice,17
+523,523,Begin,1
+524,524,Begin,1
+524,524,Grapefruit juice,14
+524,524,Apple juice,27
+524,524,Lemon juice,12
+524,524,Begin,1
+525,525,Begin,1
+525,525,Grapefruit juice,18
+525,525,Orange juice,13
+525,525,Apple juice,4
+525,525,Pineapple juice,5
+525,525,Apple juice,13
+525,525,Begin,1
+526,526,Begin,1
+526,526,Orange juice,8
+526,526,Grape juice,1
+526,526,Apple juice,7
+526,526,Pineapple juice,7
+526,526,Grapefruit juice,12
+526,526,Grape juice,4
+526,526,Orange juice,6
+526,526,Apple juice,8
+526,526,Begin,1
+527,527,Begin,1
+527,527,Apple juice,16
+527,527,Orange juice,6
+527,527,Grape juice,1
+527,527,Orange juice,30
+527,527,Begin,1
+528,528,Begin,1
+528,528,Grape juice,7
+528,528,Apple juice,46
+528,528,Begin,1
+529,529,Begin,1
+529,529,Apple juice,2
+529,529,Orange juice,15
+529,529,Grape juice,13
+529,529,Orange juice,23
+529,529,Begin,1
+530,530,Begin,1
+530,530,Orange juice,53
+530,530,Begin,1
+531,531,Begin,1
+531,531,Orange juice,20
+531,531,Pineapple juice,3
+531,531,Orange juice,30
+531,531,Begin,1
+532,532,Begin,1
+532,532,Orange juice,53
+532,532,Begin,1
+533,533,Begin,1
+533,533,Orange juice,36
+533,533,Apple juice,17
+533,533,Begin,1
+534,534,Begin,1
+534,534,Orange juice,53
+534,534,Begin,1
+535,535,Begin,1
+535,535,Orange juice,53
+535,535,Begin,1
+536,536,Begin,1
+536,536,Grapefruit juice,6
+536,536,Orange juice,1
+536,536,Apple juice,46
+536,536,Begin,1
+537,537,Begin,1
+537,537,Orange juice,12
+537,537,Apple juice,27
+537,537,Orange juice,14
+537,537,Begin,1
+538,538,Begin,1
+538,538,Apple juice,13
+538,538,Orange juice,7
+538,538,Lime juice,6
+538,538,Orange juice,27
+538,538,Begin,1
+539,539,Begin,1
+539,539,Orange juice,8
+539,539,Grape juice,20
+539,539,Orange juice,3
+539,539,Apple juice,22
+539,539,Begin,1
+540,540,Begin,1
+540,540,Orange juice,20
+540,540,Lime juice,3
+540,540,Orange juice,30
+540,540,Begin,1
+541,541,Begin,1
+541,541,Orange juice,12
+541,541,Apple juice,1
+541,541,Orange juice,23
+541,541,Apple juice,17
+541,541,Begin,1
+542,542,Begin,1
+542,542,Orange juice,53
+542,542,Begin,1
+543,543,Begin,1
+543,543,Prune juice,8
+543,543,Apple juice,45
+543,543,Begin,1
+544,544,Begin,1
+544,544,Grapefruit juice,10
+544,544,Apple juice,43
+544,544,Begin,1
+545,545,Begin,1
+545,545,Apple juice,2
+545,545,Orange juice,51
+545,545,Begin,1
+546,546,Begin,1
+546,546,Orange juice,20
+546,546,Apple juice,19
+546,546,Orange juice,14
+546,546,Begin,1
+547,547,Begin,1
+547,547,Orange juice,53
+547,547,Begin,1
+548,548,Begin,1
+548,548,Orange juice,25
+548,548,Grape juice,28
+548,548,Begin,1
+549,549,Begin,1
+549,549,Orange juice,11
+549,549,Lemon juice,1
+549,549,Apple juice,41
+549,549,Begin,1
+550,550,Begin,1
+550,550,Orange juice,12
+550,550,Apple juice,9
+550,550,Orange juice,32
+550,550,Begin,1
+551,551,Begin,1
+551,551,Orange juice,37
+551,551,Grape juice,2
+551,551,Orange juice,6
+551,551,Apple juice,4
+551,551,Lemon juice,4
+551,551,Begin,1
+552,552,Begin,1
+552,552,Orange juice,17
+552,552,Grape juice,1
+552,552,Orange juice,11
+552,552,Apple juice,24
+552,552,Begin,1
+553,553,Begin,1
+553,553,Orange juice,17
+553,553,Grapefruit juice,1
+553,553,Orange juice,35
+553,553,Begin,1
+554,554,Begin,1
+554,554,Orange juice,19
+554,554,Grape juice,23
+554,554,Apple juice,11
+554,554,Begin,1
+555,555,Begin,1
+555,555,Orange juice,7
+555,555,Grapefruit juice,3
+555,555,Apple juice,11
+555,555,Orange juice,15
+555,555,Apple juice,17
+555,555,Begin,1
+556,556,Begin,1
+556,556,Orange juice,12
+556,556,Prune juice,16
+556,556,Orange juice,1
+556,556,Grape juice,7
+556,556,Apple juice,5
+556,556,Cranberry juice,12
+556,556,Begin,1
+557,557,Begin,1
+557,557,Orange juice,44
+557,557,Grape juice,9
+557,557,Begin,1
+558,558,Begin,1
+558,558,Orange juice,14
+558,558,Apple juice,13
+558,558,Cranberry juice,22
+558,558,Grapefruit juice,4
+558,558,Begin,1
+559,559,Begin,1
+559,559,Orange juice,8
+559,559,Grape juice,22
+559,559,Orange juice,3
+559,559,Cranberry juice,6
+559,559,Lemon juice,14
+559,559,Begin,1
+560,560,Begin,1
+560,560,Prune juice,28
+560,560,Orange juice,25
+560,560,Begin,1
+561,561,Begin,1
+561,561,Apple juice,3
+561,561,Lemon juice,1
+561,561,Cranberry juice,19
+561,561,Orange juice,30
+561,561,Begin,1
+562,562,Begin,1
+562,562,Grapefruit juice,13
+562,562,Orange juice,20
+562,562,Grape juice,20
+562,562,Begin,1
+563,563,Begin,1
+563,563,Orange juice,14
+563,563,Apple juice,7
+563,563,Orange juice,32
+563,563,Begin,1
+564,564,Begin,1
+564,564,Apple juice,2
+564,564,Orange juice,18
+564,564,Apple juice,33
+564,564,Begin,1
+565,565,Begin,1
+565,565,Orange juice,20
+565,565,Apple juice,10
+565,565,Orange juice,23
+565,565,Begin,1
+566,566,Begin,1
+566,566,Orange juice,53
+566,566,Begin,1
+567,567,Begin,1
+567,567,Orange juice,53
+567,567,Begin,1
+568,568,Begin,1
+568,568,Orange juice,12
+568,568,Cranberry juice,41
+568,568,Begin,1
+569,569,Begin,1
+569,569,Orange juice,14
+569,569,Apple juice,39
+569,569,Begin,1
+570,570,Begin,1
+570,570,Grapefruit juice,2
+570,570,Orange juice,51
+570,570,Begin,1
+571,571,Begin,1
+571,571,Prune juice,2
+571,571,Orange juice,40
+571,571,Apple juice,11
+571,571,Begin,1
+572,572,Begin,1
+572,572,Apple juice,11
+572,572,Lemon juice,1
+572,572,Apple juice,1
+572,572,Orange juice,40
+572,572,Begin,1
+573,573,Begin,1
+573,573,Apple juice,11
+573,573,Grapefruit juice,2
+573,573,Orange juice,6
+573,573,Grapefruit juice,7
+573,573,Orange juice,27
+573,573,Begin,1
+574,574,Begin,1
+574,574,Orange juice,8
+574,574,Apple juice,13
+574,574,Orange juice,12
+574,574,Apple juice,20
+574,574,Begin,1
+575,575,Begin,1
+575,575,Orange juice,17
+575,575,Apple juice,36
+575,575,Begin,1
+576,576,Begin,1
+576,576,Orange juice,8
+576,576,Apple juice,13
+576,576,Orange juice,21
+576,576,Apple juice,11
+576,576,Begin,1
+577,577,Begin,1
+577,577,Apple juice,6
+577,577,Orange juice,14
+577,577,Apple juice,33
+577,577,Begin,1
+578,578,Begin,1
+578,578,Orange juice,1
+578,578,Grape juice,27
+578,578,Orange juice,25
+578,578,Begin,1
+579,579,Begin,1
+579,579,Orange juice,12
+579,579,Apple juice,1
+579,579,Orange juice,16
+579,579,Grape juice,9
+579,579,Pineapple juice,10
+579,579,Grape juice,5
+579,579,Begin,1
+580,580,Begin,1
+580,580,Orange juice,1
+580,580,Grape juice,23
+580,580,Grapefruit juice,2
+580,580,Orange juice,27
+580,580,Begin,1
+581,581,Begin,1
+581,581,Apple juice,2
+581,581,Orange juice,18
+581,581,Apple juice,33
+581,581,Begin,1
+582,582,Begin,1
+582,582,Orange juice,8
+582,582,Apple juice,5
+582,582,Orange juice,40
+582,582,Begin,1
+583,583,Begin,1
+583,583,Orange juice,53
+583,583,Begin,1
+584,584,Begin,1
+584,584,Grape juice,24
+584,584,Orange juice,29
+584,584,Begin,1
+585,585,Begin,1
+585,585,Pineapple juice,4
+585,585,Apple juice,2
+585,585,Orange juice,47
+585,585,Begin,1
+586,586,Begin,1
+586,586,Orange juice,53
+586,586,Begin,1
+587,587,Begin,1
+587,587,Grapefruit juice,12
+587,587,Apple juice,41
+587,587,Begin,1
+588,588,Begin,1
+588,588,Orange juice,12
+588,588,Apple juice,1
+588,588,Orange juice,32
+588,588,Apple juice,8
+588,588,Begin,1
+589,589,Begin,1
+589,589,Orange juice,53
+589,589,Begin,1
+590,590,Begin,1
+590,590,Grapefruit juice,13
+590,590,Orange juice,40
+590,590,Begin,1
+591,591,Begin,1
+591,591,Orange juice,12
+591,591,Apple juice,9
+591,591,Orange juice,16
+591,591,Grape juice,9
+591,591,Cranberry juice,3
+591,591,Grape juice,4
+591,591,Begin,1
+592,592,Begin,1
+592,592,Grapefruit juice,6
+592,592,Orange juice,47
+592,592,Begin,1
+593,593,Begin,1
+593,593,Grapefruit juice,35
+593,593,Grape juice,4
+593,593,Orange juice,3
+593,593,Apple juice,11
+593,593,Begin,1
+594,594,Begin,1
+594,594,Orange juice,53
+594,594,Begin,1
+595,595,Begin,1
+595,595,Orange juice,29
+595,595,Grape juice,9
+595,595,Grapefruit juice,15
+595,595,Begin,1
+596,596,Begin,1
+596,596,Orange juice,53
+596,596,Begin,1
+597,597,Begin,1
+597,597,Apple juice,2
+597,597,Orange juice,51
+597,597,Begin,1
+598,598,Begin,1
+598,598,Grape juice,26
+598,598,Orange juice,11
+598,598,Grapefruit juice,2
+598,598,Orange juice,14
+598,598,Begin,1
+599,599,Begin,1
+599,599,Orange juice,53
+599,599,Begin,1
+600,600,Begin,1
+600,600,Orange juice,53
+600,600,Begin,1
+601,601,Begin,1
+601,601,Orange juice,53
+601,601,Begin,1
+602,602,Begin,1
+602,602,Orange juice,17
+602,602,Cranberry juice,6
+602,602,Orange juice,30
+602,602,Begin,1
+603,603,Begin,1
+603,603,Orange juice,53
+603,603,Begin,1
+604,604,Begin,1
+604,604,Grapefruit juice,4
+604,604,Grape juice,14
+604,604,Orange juice,2
+604,604,Apple juice,33
+604,604,Begin,1
+605,605,Begin,1
+605,605,Grapefruit juice,14
+605,605,Apple juice,39
+605,605,Begin,1
+606,606,Begin,1
+606,606,Orange juice,17
+606,606,Grapefruit juice,1
+606,606,Orange juice,35
+606,606,Begin,1
+607,607,Begin,1
+607,607,Orange juice,53
+607,607,Begin,1
+608,608,Begin,1
+608,608,Orange juice,53
+608,608,Begin,1
+609,609,Begin,1
+609,609,Grapefruit juice,14
+609,609,Apple juice,7
+609,609,Orange juice,26
+609,609,Apple juice,6
+609,609,Begin,1
+610,610,Begin,1
+610,610,Orange juice,12
+610,610,Apple juice,1
+610,610,Orange juice,29
+610,610,Apple juice,11
+610,610,Begin,1
+611,611,Begin,1
+611,611,Orange juice,7
+611,611,Apple juice,14
+611,611,Orange juice,32
+611,611,Begin,1
+612,612,Begin,1
+612,612,Orange juice,53
+612,612,Begin,1
+613,613,Begin,1
+613,613,Orange juice,29
+613,613,Grape juice,1
+613,613,Orange juice,12
+613,613,Apple juice,11
+613,613,Begin,1
+614,614,Begin,1
+614,614,Grapefruit juice,6
+614,614,Orange juice,47
+614,614,Begin,1
+615,615,Begin,1
+615,615,Orange juice,12
+615,615,Apple juice,18
+615,615,Orange juice,23
+615,615,Begin,1
+616,616,Begin,1
+616,616,Orange juice,38
+616,616,Lime juice,15
+616,616,Begin,1
+617,617,Begin,1
+617,617,Grape juice,2
+617,617,Orange juice,51
+617,617,Begin,1
+618,618,Begin,1
+618,618,Orange juice,33
+618,618,Pineapple juice,7
+618,618,Apple juice,1
+618,618,Grape juice,4
+618,618,Apple juice,8
+618,618,Begin,1
+619,619,Begin,1
+619,619,Orange juice,33
+619,619,Apple juice,2
+619,619,Grape juice,18
+619,619,Begin,1
+620,620,Begin,1
+620,620,Orange juice,8
+620,620,Grapefruit juice,2
+620,620,Orange juice,26
+620,620,Apple juice,17
+620,620,Begin,1
+621,621,Begin,1
+621,621,Orange juice,20
+621,621,Apple juice,33
+621,621,Begin,1
+622,622,Begin,1
+622,622,Apple juice,2
+622,622,Orange juice,6
+622,622,Grape juice,16
+622,622,Grapefruit juice,6
+622,622,Orange juice,23
+622,622,Begin,1
+623,623,Begin,1
+623,623,Grapefruit juice,10
+623,623,Apple juice,5
+623,623,Pineapple juice,6
+623,623,Orange juice,32
+623,623,Begin,1
+624,624,Begin,1
+624,624,Orange juice,53
+624,624,Begin,1
+625,625,Begin,1
+625,625,Pineapple juice,1
+625,625,Grape juice,6
+625,625,Lemon juice,27
+625,625,Apple juice,19
+625,625,Begin,1
+626,626,Begin,1
+626,626,Orange juice,12
+626,626,Pineapple juice,41
+626,626,Begin,1
+627,627,Begin,1
+627,627,Orange juice,53
+627,627,Begin,1
+628,628,Begin,1
+628,628,Orange juice,8
+628,628,Grape juice,1
+628,628,Apple juice,10
+628,628,Grape juice,34
+628,628,Begin,1
+629,629,Begin,1
+629,629,Orange juice,8
+629,629,Grapefruit juice,2
+629,629,Apple juice,43
+629,629,Begin,1
+630,630,Begin,1
+630,630,Orange juice,47
+630,630,Pineapple juice,1
+630,630,Grape juice,5
+630,630,Begin,1
+631,631,Begin,1
+631,631,Orange juice,8
+631,631,Grape juice,2
+631,631,Apple juice,43
+631,631,Begin,1
+632,632,Begin,1
+632,632,Orange juice,8
+632,632,Apple juice,13
+632,632,Orange juice,19
+632,632,Apple juice,13
+632,632,Begin,1
+633,633,Begin,1
+633,633,Grape juice,2
+633,633,Orange juice,17
+633,633,Grapefruit juice,26
+633,633,Apple juice,8
+633,633,Begin,1
+634,634,Begin,1
+634,634,Pineapple juice,2
+634,634,Orange juice,13
+634,634,Grapefruit juice,17
+634,634,Cranberry juice,17
+634,634,Grape juice,4
+634,634,Begin,1
+635,635,Begin,1
+635,635,Orange juice,25
+635,635,Grape juice,28
+635,635,Begin,1
+636,636,Begin,1
+636,636,Prune juice,3
+636,636,Grape juice,6
+636,636,Orange juice,5
+636,636,Cranberry juice,39
+636,636,Begin,1
+637,637,Begin,1
+637,637,Orange juice,53
+637,637,Begin,1
+638,638,Begin,1
+638,638,Orange juice,45
+638,638,Apple juice,8
+638,638,Begin,1
+639,639,Begin,1
+639,639,Orange juice,17
+639,639,Grape juice,7
+639,639,Orange juice,29
+639,639,Begin,1
+640,640,Begin,1
+640,640,Orange juice,8
+640,640,Apple juice,5
+640,640,Orange juice,40
+640,640,Begin,1
+641,641,Begin,1
+641,641,Orange juice,20
+641,641,Grapefruit juice,1
+641,641,Orange juice,32
+641,641,Begin,1
+642,642,Begin,1
+642,642,Orange juice,53
+642,642,Begin,1
+643,643,Begin,1
+643,643,Orange juice,53
+643,643,Begin,1
+644,644,Begin,1
+644,644,Grapefruit juice,14
+644,644,Cranberry juice,39
+644,644,Begin,1
+645,645,Begin,1
+645,645,Orange juice,8
+645,645,Apple juice,5
+645,645,Orange juice,40
+645,645,Begin,1
+646,646,Begin,1
+646,646,Orange juice,1
+646,646,Grape juice,1
+646,646,Orange juice,51
+646,646,Begin,1
+647,647,Begin,1
+647,647,Orange juice,36
+647,647,Apple juice,5
+647,647,Grape juice,5
+647,647,Apple juice,7
+647,647,Begin,1
+648,648,Begin,1
+648,648,Orange juice,53
+648,648,Begin,1
+649,649,Begin,1
+649,649,Pineapple juice,3
+649,649,Grape juice,25
+649,649,Orange juice,25
+649,649,Begin,1
+650,650,Begin,1
+650,650,Pineapple juice,24
+650,650,Cranberry juice,6
+650,650,Orange juice,23
+650,650,Begin,1
+651,651,Begin,1
+651,651,Orange juice,29
+651,651,Apple juice,24
+651,651,Begin,1
+652,652,Begin,1
+652,652,Grapefruit juice,14
+652,652,Apple juice,13
+652,652,Cranberry juice,26
+652,652,Begin,1
+653,653,Begin,1
+653,653,Orange juice,53
+653,653,Begin,1
+654,654,Begin,1
+654,654,Orange juice,53
+654,654,Begin,1
+655,655,Begin,1
+655,655,Orange juice,8
+655,655,Pineapple juice,5
+655,655,Orange juice,1
+655,655,Apple juice,5
+655,655,Grapefruit juice,21
+655,655,Apple juice,13
+655,655,Begin,1
+656,656,Begin,1
+656,656,Orange juice,15
+656,656,Grapefruit juice,3
+656,656,Orange juice,35
+656,656,Begin,1
+657,657,Begin,1
+657,657,Orange juice,53
+657,657,Begin,1
+658,658,Begin,1
+658,658,Orange juice,15
+658,658,Grapefruit juice,20
+658,658,Grape juice,3
+658,658,Cranberry juice,15
+658,658,Begin,1
+659,659,Begin,1
+659,659,Orange juice,36
+659,659,Apple juice,17
+659,659,Begin,1
+660,660,Begin,1
+660,660,Orange juice,36
+660,660,Apple juice,17
+660,660,Begin,1
+661,661,Begin,1
+661,661,Orange juice,20
+661,661,Pineapple juice,28
+661,661,Grape juice,5
+661,661,Begin,1
+662,662,Begin,1
+662,662,Orange juice,33
+662,662,Apple juice,8
+662,662,Orange juice,12
+662,662,Begin,1
+663,663,Begin,1
+663,663,Orange juice,1
+663,663,Grape juice,1
+663,663,Orange juice,51
+663,663,Begin,1
+664,664,Begin,1
+664,664,Orange juice,53
+664,664,Begin,1
+665,665,Begin,1
+665,665,Orange juice,7
+665,665,Pineapple juice,16
+665,665,Orange juice,30
+665,665,Begin,1
+666,666,Begin,1
+666,666,Orange juice,14
+666,666,Apple juice,27
+666,666,Orange juice,12
+666,666,Begin,1
+667,667,Begin,1
+667,667,Orange juice,53
+667,667,Begin,1
+668,668,Begin,1
+668,668,Orange juice,8
+668,668,Grape juice,1
+668,668,Prune juice,21
+668,668,Orange juice,7
+668,668,Grape juice,16
+668,668,Begin,1
+669,669,Begin,1
+669,669,Pineapple juice,4
+669,669,Apple juice,49
+669,669,Begin,1
+670,670,Begin,1
+670,670,Grapefruit juice,4
+670,670,Prune juice,6
+670,670,Apple juice,17
+670,670,Grapefruit juice,8
+670,670,Grape juice,4
+670,670,Orange juice,14
+670,670,Begin,1
+671,671,Begin,1
+671,671,Orange juice,20
+671,671,Apple juice,33
+671,671,Begin,1
+672,672,Begin,1
+672,672,Orange juice,53
+672,672,Begin,1
+673,673,Begin,1
+673,673,Orange juice,20
+673,673,Apple juice,33
+673,673,Begin,1
+674,674,Begin,1
+674,674,Orange juice,1
+674,674,Grapefruit juice,13
+674,674,Apple juice,7
+674,674,Orange juice,10
+674,674,Lemon juice,3
+674,674,Apple juice,19
+674,674,Begin,1
+675,675,Begin,1
+675,675,Orange juice,17
+675,675,Grapefruit juice,5
+675,675,Apple juice,31
+675,675,Begin,1
+676,676,Begin,1
+676,676,Orange juice,20
+676,676,Apple juice,1
+676,676,Orange juice,32
+676,676,Begin,1
+677,677,Begin,1
+677,677,Pineapple juice,4
+677,677,Prune juice,6
+677,677,Orange juice,43
+677,677,Begin,1
+678,678,Begin,1
+678,678,Orange juice,53
+678,678,Begin,1
+679,679,Begin,1
+679,679,Orange juice,17
+679,679,Apple juice,2
+679,679,Grapefruit juice,2
+679,679,Orange juice,8
+679,679,Grape juice,1
+679,679,Orange juice,3
+679,679,Grape juice,20
+679,679,Begin,1
+680,680,Begin,1
+680,680,Apple juice,21
+680,680,Orange juice,4
+680,680,Grape juice,5
+680,680,Orange juice,12
+680,680,Cranberry juice,2
+680,680,Grape juice,9
+680,680,Begin,1
+681,681,Begin,1
+681,681,Orange juice,11
+681,681,Grapefruit juice,7
+681,681,Orange juice,35
+681,681,Begin,1
+682,682,Begin,1
+682,682,Pineapple juice,28
+682,682,Orange juice,25
+682,682,Begin,1
+683,683,Begin,1
+683,683,Grapefruit juice,10
+683,683,Apple juice,1
+683,683,Grapefruit juice,2
+683,683,Orange juice,29
+683,683,Apple juice,11
+683,683,Begin,1
+684,684,Begin,1
+684,684,Orange juice,7
+684,684,Grapefruit juice,7
+684,684,Apple juice,16
+684,684,Orange juice,23
+684,684,Begin,1
+685,685,Begin,1
+685,685,Lemon juice,4
+685,685,Apple juice,17
+685,685,Orange juice,32
+685,685,Begin,1
+686,686,Begin,1
+686,686,Grape juice,24
+686,686,Cranberry juice,1
+686,686,Grape juice,3
+686,686,Orange juice,25
+686,686,Begin,1
+687,687,Begin,1
+687,687,Orange juice,14
+687,687,Apple juice,39
+687,687,Begin,1
+688,688,Begin,1
+688,688,Orange juice,20
+688,688,Lemon juice,2
+688,688,Grape juice,6
+688,688,Apple juice,25
+688,688,Begin,1
+689,689,Begin,1
+689,689,Apple juice,35
+689,689,Grape juice,10
+689,689,Apple juice,8
+689,689,Begin,1
+690,690,Begin,1
+690,690,Orange juice,53
+690,690,Begin,1
+691,691,Begin,1
+691,691,Pineapple juice,13
+691,691,Orange juice,40
+691,691,Begin,1
+692,692,Begin,1
+692,692,Orange juice,20
+692,692,Apple juice,33
+692,692,Begin,1
+693,693,Begin,1
+693,693,Orange juice,20
+693,693,Apple juice,19
+693,693,Lemon juice,3
+693,693,Cranberry juice,11
+693,693,Begin,1
+694,694,Begin,1
+694,694,Orange juice,17
+694,694,Pineapple juice,23
+694,694,Grape juice,13
+694,694,Begin,1
+695,695,Begin,1
+695,695,Orange juice,33
+695,695,Apple juice,10
+695,695,Grape juice,10
+695,695,Begin,1
+696,696,Begin,1
+696,696,Apple juice,25
+696,696,Grape juice,28
+696,696,Begin,1
+697,697,Begin,1
+697,697,Orange juice,53
+697,697,Begin,1
+698,698,Begin,1
+698,698,Orange juice,17
+698,698,Apple juice,36
+698,698,Begin,1
+699,699,Begin,1
+699,699,Pineapple juice,3
+699,699,Grape juice,6
+699,699,Apple juice,44
+699,699,Begin,1
+700,700,Begin,1
+700,700,Grape juice,2
+700,700,Orange juice,18
+700,700,Apple juice,33
+700,700,Begin,1
+701,701,Begin,1
+701,701,Orange juice,53
+701,701,Begin,1
+702,702,Begin,1
+702,702,Grapefruit juice,16
+702,702,Orange juice,37
+702,702,Begin,1
+703,703,Begin,1
+703,703,Orange juice,53
+703,703,Begin,1
+704,704,Begin,1
+704,704,Orange juice,53
+704,704,Begin,1
+705,705,Begin,1
+705,705,Orange juice,12
+705,705,Apple juice,15
+705,705,Grape juice,26
+705,705,Begin,1
+706,706,Begin,1
+706,706,Grape juice,39
+706,706,Orange juice,1
+706,706,Apple juice,13
+706,706,Begin,1
+707,707,Begin,1
+707,707,Orange juice,29
+707,707,Grape juice,24
+707,707,Begin,1
+708,708,Begin,1
+708,708,Orange juice,20
+708,708,Apple juice,33
+708,708,Begin,1
+709,709,Begin,1
+709,709,Orange juice,17
+709,709,Apple juice,36
+709,709,Begin,1
+710,710,Begin,1
+710,710,Apple juice,2
+710,710,Orange juice,6
+710,710,Grape juice,20
+710,710,Orange juice,25
+710,710,Begin,1
+711,711,Begin,1
+711,711,Grapefruit juice,30
+711,711,Orange juice,23
+711,711,Begin,1
+712,712,Begin,1
+712,712,Apple juice,21
+712,712,Orange juice,32
+712,712,Begin,1
+713,713,Begin,1
+713,713,Grapefruit juice,13
+713,713,Orange juice,40
+713,713,Begin,1
+714,714,Begin,1
+714,714,Orange juice,8
+714,714,Grapefruit juice,2
+714,714,Apple juice,43
+714,714,Begin,1
+715,715,Begin,1
+715,715,Orange juice,20
+715,715,Grapefruit juice,15
+715,715,Orange juice,18
+715,715,Begin,1
+716,716,Begin,1
+716,716,Orange juice,40
+716,716,Apple juice,13
+716,716,Begin,1
+717,717,Begin,1
+717,717,Orange juice,1
+717,717,Grape juice,1
+717,717,Orange juice,6
+717,717,Grapefruit juice,2
+717,717,Apple juice,43
+717,717,Begin,1
+718,718,Begin,1
+718,718,Orange juice,7
+718,718,Grapefruit juice,6
+718,718,Orange juice,40
+718,718,Begin,1
+719,719,Begin,1
+719,719,Orange juice,53
+719,719,Begin,1
+720,720,Begin,1
+720,720,Orange juice,53
+720,720,Begin,1
+721,721,Begin,1
+721,721,Orange juice,53
+721,721,Begin,1
+722,722,Begin,1
+722,722,Orange juice,53
+722,722,Begin,1
+723,723,Begin,1
+723,723,Orange juice,53
+723,723,Begin,1
+724,724,Begin,1
+724,724,Grapefruit juice,16
+724,724,Orange juice,13
+724,724,Grape juice,1
+724,724,Orange juice,23
+724,724,Begin,1
+725,725,Begin,1
+725,725,Orange juice,53
+725,725,Begin,1
+726,726,Begin,1
+726,726,Orange juice,1
+726,726,Grape juice,1
+726,726,Orange juice,18
+726,726,Apple juice,33
+726,726,Begin,1
+727,727,Begin,1
+727,727,Orange juice,45
+727,727,Apple juice,8
+727,727,Begin,1
+728,728,Begin,1
+728,728,Apple juice,3
+728,728,Grapefruit juice,7
+728,728,Apple juice,43
+728,728,Begin,1
+729,729,Begin,1
+729,729,Orange juice,20
+729,729,Apple juice,21
+729,729,Orange juice,5
+729,729,Apple juice,7
+729,729,Begin,1
+730,730,Begin,1
+730,730,Orange juice,29
+730,730,Cranberry juice,24
+730,730,Begin,1
+731,731,Begin,1
+731,731,Grapefruit juice,10
+731,731,Apple juice,43
+731,731,Begin,1
+732,732,Begin,1
+732,732,Orange juice,12
+732,732,Apple juice,9
+732,732,Grape juice,24
+732,732,Apple juice,8
+732,732,Begin,1
+733,733,Begin,1
+733,733,Orange juice,53
+733,733,Begin,1
+734,734,Begin,1
+734,734,Grapefruit juice,5
+734,734,Lemon juice,7
+734,734,Apple juice,41
+734,734,Begin,1
+735,735,Begin,1
+735,735,Orange juice,53
+735,735,Begin,1
+736,736,Begin,1
+736,736,Orange juice,53
+736,736,Begin,1
+737,737,Begin,1
+737,737,Orange juice,17
+737,737,Grape juice,36
+737,737,Begin,1
+738,738,Begin,1
+738,738,Orange juice,53
+738,738,Begin,1
+739,739,Begin,1
+739,739,Apple juice,53
+739,739,Begin,1
+740,740,Begin,1
+740,740,Orange juice,53
+740,740,Begin,1
+741,741,Begin,1
+741,741,Apple juice,19
+741,741,Grapefruit juice,2
+741,741,Orange juice,32
+741,741,Begin,1
+742,742,Begin,1
+742,742,Orange juice,20
+742,742,Apple juice,33
+742,742,Begin,1
+743,743,Begin,1
+743,743,Orange juice,38
+743,743,Cranberry juice,15
+743,743,Begin,1
+744,744,Begin,1
+744,744,Orange juice,8
+744,744,Grape juice,1
+744,744,Pineapple juice,15
+744,744,Orange juice,29
+744,744,Begin,1
+745,745,Begin,1
+745,745,Orange juice,53
+745,745,Begin,1
+746,746,Begin,1
+746,746,Orange juice,29
+746,746,Grape juice,1
+746,746,Orange juice,23
+746,746,Begin,1
+747,747,Begin,1
+747,747,Orange juice,8
+747,747,Grape juice,45
+747,747,Begin,1
+748,748,Begin,1
+748,748,Apple juice,3
+748,748,Lemon juice,1
+748,748,Apple juice,49
+748,748,Begin,1
+749,749,Begin,1
+749,749,Grapefruit juice,14
+749,749,Apple juice,5
+749,749,Grapefruit juice,3
+749,749,Apple juice,31
+749,749,Begin,1
+750,750,Begin,1
+750,750,Orange juice,53
+750,750,Begin,1
+751,751,Begin,1
+751,751,Orange juice,20
+751,751,Apple juice,21
+751,751,Grape juice,12
+751,751,Begin,1
+752,752,Begin,1
+752,752,Orange juice,7
+752,752,Lemon juice,2
+752,752,Orange juice,20
+752,752,Apple juice,12
+752,752,Orange juice,12
+752,752,Begin,1
+753,753,Begin,1
+753,753,Orange juice,12
+753,753,Apple juice,41
+753,753,Begin,1
+754,754,Begin,1
+754,754,Apple juice,13
+754,754,Orange juice,40
+754,754,Begin,1
+755,755,Begin,1
+755,755,Orange juice,53
+755,755,Begin,1
+756,756,Begin,1
+756,756,Orange juice,53
+756,756,Begin,1
+757,757,Begin,1
+757,757,Orange juice,29
+757,757,Pineapple juice,19
+757,757,Orange juice,5
+757,757,Begin,1
+758,758,Begin,1
+758,758,Orange juice,12
+758,758,Apple juice,41
+758,758,Begin,1
+759,759,Begin,1
+759,759,Orange juice,25
+759,759,Grape juice,1
+759,759,Orange juice,27
+759,759,Begin,1
+760,760,Begin,1
+760,760,Orange juice,14
+760,760,Apple juice,39
+760,760,Begin,1
+761,761,Begin,1
+761,761,Prune juice,5
+761,761,Lemon juice,1
+761,761,Orange juice,1
+761,761,Apple juice,14
+761,761,Orange juice,4
+761,761,Grape juice,28
+761,761,Begin,1
+762,762,Begin,1
+762,762,Orange juice,8
+762,762,Apple juice,45
+762,762,Begin,1
+763,763,Begin,1
+763,763,Grapefruit juice,14
+763,763,Pineapple juice,7
+763,763,Grape juice,9
+763,763,Orange juice,23
+763,763,Begin,1
+764,764,Begin,1
+764,764,Orange juice,20
+764,764,Apple juice,33
+764,764,Begin,1
+765,765,Begin,1
+765,765,Orange juice,53
+765,765,Begin,1
+766,766,Begin,1
+766,766,Apple juice,3
+766,766,Grape juice,6
+766,766,Orange juice,28
+766,766,Grape juice,9
+766,766,Apple juice,7
+766,766,Begin,1
+767,767,Begin,1
+767,767,Prune juice,13
+767,767,Orange juice,40
+767,767,Begin,1
+768,768,Begin,1
+768,768,Orange juice,53
+768,768,Begin,1
+769,769,Begin,1
+769,769,Orange juice,14
+769,769,Apple juice,39
+769,769,Begin,1
+770,770,Begin,1
+770,770,Prune juice,10
+770,770,Orange juice,5
+770,770,Grapefruit juice,6
+770,770,Orange juice,32
+770,770,Begin,1
+771,771,Begin,1
+771,771,Orange juice,1
+771,771,Grapefruit juice,13
+771,771,Pineapple juice,14
+771,771,Orange juice,25
+771,771,Begin,1
+772,772,Begin,1
+772,772,Grape juice,5
+772,772,Lemon juice,1
+772,772,Orange juice,5
+772,772,Grapefruit juice,7
+772,772,Apple juice,35
+772,772,Begin,1
+773,773,Begin,1
+773,773,Orange juice,7
+773,773,Apple juice,46
+773,773,Begin,1
+774,774,Begin,1
+774,774,Orange juice,17
+774,774,Apple juice,4
+774,774,Orange juice,32
+774,774,Begin,1
+775,775,Begin,1
+775,775,Orange juice,53
+775,775,Begin,1
+776,776,Begin,1
+776,776,Apple juice,53
+776,776,Begin,1
+777,777,Begin,1
+777,777,Orange juice,29
+777,777,Grape juice,24
+777,777,Begin,1
+778,778,Begin,1
+778,778,Grape juice,2
+778,778,Orange juice,51
+778,778,Begin,1
+779,779,Begin,1
+779,779,Apple juice,2
+779,779,Orange juice,5
+779,779,Grapefruit juice,6
+779,779,Orange juice,40
+779,779,Begin,1
+780,780,Begin,1
+780,780,Orange juice,53
+780,780,Begin,1
+781,781,Begin,1
+781,781,Grapefruit juice,18
+781,781,Orange juice,35
+781,781,Begin,1
+782,782,Begin,1
+782,782,Orange juice,29
+782,782,Cranberry juice,24
+782,782,Begin,1
+783,783,Begin,1
+783,783,Orange juice,20
+783,783,Grapefruit juice,15
+783,783,Orange juice,18
+783,783,Begin,1
+784,784,Begin,1
+784,784,Orange juice,53
+784,784,Begin,1
+785,785,Begin,1
+785,785,Orange juice,1
+785,785,Grape juice,1
+785,785,Orange juice,51
+785,785,Begin,1
+786,786,Begin,1
+786,786,Orange juice,20
+786,786,Apple juice,33
+786,786,Begin,1
+787,787,Begin,1
+787,787,Grape juice,5
+787,787,Lemon juice,1
+787,787,Orange juice,47
+787,787,Begin,1
+788,788,Begin,1
+788,788,Orange juice,20
+788,788,Apple juice,33
+788,788,Begin,1
+789,789,Begin,1
+789,789,Orange juice,53
+789,789,Begin,1
+790,790,Begin,1
+790,790,Orange juice,42
+790,790,Apple juice,11
+790,790,Begin,1
+791,791,Begin,1
+791,791,Apple juice,53
+791,791,Begin,1
+792,792,Begin,1
+792,792,Apple juice,13
+792,792,Orange juice,4
+792,792,Lemon juice,36
+792,792,Begin,1
+793,793,Begin,1
+793,793,Orange juice,53
+793,793,Begin,1
+794,794,Begin,1
+794,794,Apple juice,53
+794,794,Begin,1
+795,795,Begin,1
+795,795,Prune juice,39
+795,795,Orange juice,14
+795,795,Begin,1
+796,796,Begin,1
+796,796,Orange juice,15
+796,796,Grapefruit juice,1
+796,796,Pineapple juice,18
+796,796,Apple juice,19
+796,796,Begin,1
+797,797,Begin,1
+797,797,Orange juice,12
+797,797,Apple juice,41
+797,797,Begin,1
+798,798,Begin,1
+798,798,Pineapple juice,13
+798,798,Orange juice,40
+798,798,Begin,1
+799,799,Begin,1
+799,799,Grapefruit juice,6
+799,799,Orange juice,2
+799,799,Grape juice,15
+799,799,Orange juice,14
+799,799,Grape juice,2
+799,799,Orange juice,14
+799,799,Begin,1
+800,800,Begin,1
+800,800,Orange juice,7
+800,800,Apple juice,12
+800,800,Grapefruit juice,2
+800,800,Orange juice,32
+800,800,Begin,1
+801,801,Begin,1
+801,801,Apple juice,53
+801,801,Begin,1
+802,802,Begin,1
+802,802,Orange juice,45
+802,802,Apple juice,8
+802,802,Begin,1
+803,803,Begin,1
+803,803,Grapefruit juice,6
+803,803,Orange juice,14
+803,803,Pineapple juice,8
+803,803,Apple juice,25
+803,803,Begin,1
+804,804,Begin,1
+804,804,Orange juice,42
+804,804,Apple juice,11
+804,804,Begin,1
+805,805,Begin,1
+805,805,Grapefruit juice,14
+805,805,Apple juice,39
+805,805,Begin,1
+806,806,Begin,1
+806,806,Pineapple juice,3
+806,806,Grapefruit juice,1
+806,806,Apple juice,49
+806,806,Begin,1
+807,807,Begin,1
+807,807,Orange juice,1
+807,807,Grape juice,27
+807,807,Apple juice,13
+807,807,Grape juice,12
+807,807,Begin,1
+808,808,Begin,1
+808,808,Orange juice,53
+808,808,Begin,1
+809,809,Begin,1
+809,809,Grapefruit juice,21
+809,809,Orange juice,32
+809,809,Begin,1
+810,810,Begin,1
+810,810,Grape juice,28
+810,810,Orange juice,14
+810,810,Apple juice,11
+810,810,Begin,1
+811,811,Begin,1
+811,811,Grape juice,5
+811,811,Lemon juice,8
+811,811,Orange juice,7
+811,811,Apple juice,33
+811,811,Begin,1
+812,812,Begin,1
+812,812,Orange juice,8
+812,812,Apple juice,45
+812,812,Begin,1
+813,813,Begin,1
+813,813,Prune juice,2
+813,813,Orange juice,15
+813,813,Grapefruit juice,1
+813,813,Apple juice,35
+813,813,Begin,1
+814,814,Begin,1
+814,814,Orange juice,7
+814,814,Apple juice,6
+814,814,Orange juice,12
+814,814,Grape juice,9
+814,814,Apple juice,19
+814,814,Begin,1
+815,815,Begin,1
+815,815,Orange juice,37
+815,815,Grape juice,8
+815,815,Apple juice,8
+815,815,Begin,1
+816,816,Begin,1
+816,816,Orange juice,36
+816,816,Apple juice,7
+816,816,Grape juice,10
+816,816,Begin,1
+817,817,Begin,1
+817,817,Orange juice,20
+817,817,Grapefruit juice,1
+817,817,Orange juice,32
+817,817,Begin,1
+818,818,Begin,1
+818,818,Orange juice,20
+818,818,Apple juice,15
+818,818,Grape juice,18
+818,818,Begin,1
+819,819,Begin,1
+819,819,Orange juice,37
+819,819,Grape juice,16
+819,819,Begin,1
+820,820,Begin,1
+820,820,Orange juice,15
+820,820,Prune juice,4
+820,820,Grape juice,34
+820,820,Begin,1
+821,821,Begin,1
+821,821,Orange juice,49
+821,821,Grapefruit juice,4
+821,821,Begin,1
+822,822,Begin,1
+822,822,Orange juice,25
+822,822,Grape juice,1
+822,822,Orange juice,27
+822,822,Begin,1
+823,823,Begin,1
+823,823,Prune juice,2
+823,823,Orange juice,18
+823,823,Apple juice,1
+823,823,Orange juice,32
+823,823,Begin,1
+824,824,Begin,1
+824,824,Orange juice,53
+824,824,Begin,1
+825,825,Begin,1
+825,825,Orange juice,20
+825,825,Apple juice,1
+825,825,Orange juice,32
+825,825,Begin,1
+826,826,Begin,1
+826,826,Prune juice,5
+826,826,Pineapple juice,8
+826,826,Orange juice,7
+826,826,Grapefruit juice,1
+826,826,Orange juice,10
+826,826,Apple juice,22
+826,826,Begin,1
+827,827,Begin,1
+827,827,Orange juice,53
+827,827,Begin,1
+828,828,Begin,1
+828,828,Pineapple juice,10
+828,828,Orange juice,19
+828,828,Grape juice,9
+828,828,Pineapple juice,10
+828,828,Grape juice,5
+828,828,Begin,1
+829,829,Begin,1
+829,829,Orange juice,42
+829,829,Apple juice,11
+829,829,Begin,1
+830,830,Begin,1
+830,830,Orange juice,53
+830,830,Begin,1
+831,831,Begin,1
+831,831,Orange juice,20
+831,831,Apple juice,33
+831,831,Begin,1
+832,832,Begin,1
+832,832,Orange juice,1
+832,832,Grapefruit juice,5
+832,832,Orange juice,47
+832,832,Begin,1
+833,833,Begin,1
+833,833,Pineapple juice,28
+833,833,Orange juice,25
+833,833,Begin,1
+834,834,Begin,1
+834,834,Orange juice,53
+834,834,Begin,1
+835,835,Begin,1
+835,835,Orange juice,53
+835,835,Begin,1
+836,836,Begin,1
+836,836,Orange juice,25
+836,836,Grape juice,3
+836,836,Orange juice,19
+836,836,Lemon juice,6
+836,836,Begin,1
+837,837,Begin,1
+837,837,Orange juice,53
+837,837,Begin,1
+838,838,Begin,1
+838,838,Grape juice,2
+838,838,Orange juice,34
+838,838,Apple juice,17
+838,838,Begin,1
+839,839,Begin,1
+839,839,Orange juice,17
+839,839,Grapefruit juice,1
+839,839,Apple juice,3
+839,839,Orange juice,32
+839,839,Begin,1
+840,840,Begin,1
+840,840,Orange juice,42
+840,840,Apple juice,11
+840,840,Begin,1
+841,841,Begin,1
+841,841,Orange juice,53
+841,841,Begin,1
+842,842,Begin,1
+842,842,Orange juice,36
+842,842,Apple juice,17
+842,842,Begin,1
+843,843,Begin,1
+843,843,Orange juice,20
+843,843,Apple juice,33
+843,843,Begin,1
+844,844,Begin,1
+844,844,Apple juice,53
+844,844,Begin,1
+845,845,Begin,1
+845,845,Orange juice,20
+845,845,Lime juice,6
+845,845,Orange juice,10
+845,845,Apple juice,17
+845,845,Begin,1
+846,846,Begin,1
+846,846,Prune juice,3
+846,846,Grapefruit juice,10
+846,846,Orange juice,40
+846,846,Begin,1
+847,847,Begin,1
+847,847,Orange juice,53
+847,847,Begin,1
+848,848,Begin,1
+848,848,Orange juice,53
+848,848,Begin,1
+849,849,Begin,1
+849,849,Orange juice,12
+849,849,Apple juice,29
+849,849,Grapefruit juice,12
+849,849,Begin,1
+850,850,Begin,1
+850,850,Orange juice,53
+850,850,Begin,1
+851,851,Begin,1
+851,851,Orange juice,8
+851,851,Grape juice,15
+851,851,Orange juice,30
+851,851,Begin,1
+852,852,Begin,1
+852,852,Orange juice,25
+852,852,Grape juice,28
+852,852,Begin,1
+853,853,Begin,1
+853,853,Grape juice,15
+853,853,Pineapple juice,12
+853,853,Orange juice,26
+853,853,Begin,1
+854,854,Begin,1
+854,854,Orange juice,22
+854,854,Grape juice,6
+854,854,Orange juice,10
+854,854,Pineapple juice,2
+854,854,Cranberry juice,13
+854,854,Begin,1
+855,855,Begin,1
+855,855,Orange juice,29
+855,855,Apple juice,6
+855,855,Grape juice,7
+855,855,Apple juice,11
+855,855,Begin,1
+856,856,Begin,1
+856,856,Orange juice,53
+856,856,Begin,1
+857,857,Begin,1
+857,857,Orange juice,53
+857,857,Begin,1
+858,858,Begin,1
+858,858,Orange juice,53
+858,858,Begin,1
+859,859,Begin,1
+859,859,Orange juice,53
+859,859,Begin,1
+860,860,Begin,1
+860,860,Prune juice,3
+860,860,Grapefruit juice,7
+860,860,Apple juice,43
+860,860,Begin,1
+861,861,Begin,1
+861,861,Orange juice,14
+861,861,Apple juice,39
+861,861,Begin,1
+862,862,Begin,1
+862,862,Orange juice,8
+862,862,Apple juice,45
+862,862,Begin,1
+863,863,Begin,1
+863,863,Orange juice,53
+863,863,Begin,1
+864,864,Begin,1
+864,864,Orange juice,14
+864,864,Apple juice,39
+864,864,Begin,1
+865,865,Begin,1
+865,865,Orange juice,29
+865,865,Apple juice,12
+865,865,Grape juice,4
+865,865,Apple juice,8
+865,865,Begin,1
+866,866,Begin,1
+866,866,Orange juice,7
+866,866,Apple juice,8
+866,866,Grapefruit juice,1
+866,866,Orange juice,15
+866,866,Apple juice,22
+866,866,Begin,1
+867,867,Begin,1
+867,867,Orange juice,53
+867,867,Begin,1
+868,868,Begin,1
+868,868,Orange juice,53
+868,868,Begin,1
+869,869,Begin,1
+869,869,Orange juice,7
+869,869,Grapefruit juice,3
+869,869,Apple juice,6
+869,869,Orange juice,37
+869,869,Begin,1
+870,870,Begin,1
+870,870,Orange juice,8
+870,870,Grapefruit juice,2
+870,870,Apple juice,43
+870,870,Begin,1
+871,871,Begin,1
+871,871,Apple juice,2
+871,871,Orange juice,18
+871,871,Grapefruit juice,1
+871,871,Orange juice,32
+871,871,Begin,1
+872,872,Begin,1
+872,872,Orange juice,42
+872,872,Cranberry juice,11
+872,872,Begin,1
+873,873,Begin,1
+873,873,Orange juice,8
+873,873,Apple juice,45
+873,873,Begin,1
+874,874,Begin,1
+874,874,Pineapple juice,53
+874,874,Begin,1
+875,875,Begin,1
+875,875,Orange juice,8
+875,875,Grape juice,1
+875,875,Prune juice,12
+875,875,Orange juice,32
+875,875,Begin,1
+876,876,Begin,1
+876,876,Orange juice,7
+876,876,Apple juice,32
+876,876,Orange juice,14
+876,876,Begin,1
+877,877,Begin,1
+877,877,Orange juice,12
+877,877,Apple juice,41
+877,877,Begin,1
+878,878,Begin,1
+878,878,Orange juice,1
+878,878,Grapefruit juice,5
+878,878,Orange juice,47
+878,878,Begin,1
+879,879,Begin,1
+879,879,Orange juice,15
+879,879,Lemon juice,1
+879,879,Orange juice,37
+879,879,Begin,1
+880,880,Begin,1
+880,880,Prune juice,8
+880,880,Grape juice,7
+880,880,Grapefruit juice,3
+880,880,Orange juice,2
+880,880,Apple juice,23
+880,880,Grape juice,10
+880,880,Begin,1
+881,881,Begin,1
+881,881,Apple juice,2
+881,881,Orange juice,35
+881,881,Grapefruit juice,16
+881,881,Begin,1
+882,882,Begin,1
+882,882,Orange juice,20
+882,882,Apple juice,33
+882,882,Begin,1
+883,883,Begin,1
+883,883,Orange juice,53
+883,883,Begin,1
+884,884,Begin,1
+884,884,Apple juice,3
+884,884,Grape juice,25
+884,884,Orange juice,25
+884,884,Begin,1
+885,885,Begin,1
+885,885,Orange juice,45
+885,885,Apple juice,8
+885,885,Begin,1
+886,886,Begin,1
+886,886,Orange juice,8
+886,886,Grape juice,7
+886,886,Lime juice,3
+886,886,Cranberry juice,35
+886,886,Begin,1
+887,887,Begin,1
+887,887,Orange juice,8
+887,887,Grape juice,1
+887,887,Pineapple juice,28
+887,887,Grapefruit juice,5
+887,887,Apple juice,11
+887,887,Begin,1
+888,888,Begin,1
+888,888,Orange juice,45
+888,888,Lemon juice,8
+888,888,Begin,1
+889,889,Begin,1
+889,889,Apple juice,3
+889,889,Grape juice,6
+889,889,Apple juice,2
+889,889,Grapefruit juice,3
+889,889,Apple juice,39
+889,889,Begin,1
+890,890,Begin,1
+890,890,Orange juice,14
+890,890,Apple juice,39
+890,890,Begin,1
+891,891,Begin,1
+891,891,Orange juice,1
+891,891,Apple juice,42
+891,891,Grape juice,10
+891,891,Begin,1
+892,892,Begin,1
+892,892,Grapefruit juice,22
+892,892,Apple juice,31
+892,892,Begin,1
+893,893,Begin,1
+893,893,Orange juice,20
+893,893,Grapefruit juice,13
+893,893,Apple juice,20
+893,893,Begin,1
+894,894,Begin,1
+894,894,Orange juice,29
+894,894,Grape juice,1
+894,894,Lemon juice,23
+894,894,Begin,1
+895,895,Begin,1
+895,895,Orange juice,53
+895,895,Begin,1
+896,896,Begin,1
+896,896,Orange juice,11
+896,896,Lemon juice,5
+896,896,Pineapple juice,37
+896,896,Begin,1
+897,897,Begin,1
+897,897,Orange juice,7
+897,897,Grapefruit juice,7
+897,897,Cranberry juice,9
+897,897,Orange juice,30
+897,897,Begin,1
+898,898,Begin,1
+898,898,Orange juice,20
+898,898,Grapefruit juice,1
+898,898,Orange juice,15
+898,898,Apple juice,17
+898,898,Begin,1
+899,899,Begin,1
+899,899,Grapefruit juice,6
+899,899,Orange juice,9
+899,899,Grapefruit juice,21
+899,899,Apple juice,17
+899,899,Begin,1
+900,900,Begin,1
+900,900,Orange juice,20
+900,900,Grapefruit juice,10
+900,900,Orange juice,17
+900,900,Apple juice,6
+900,900,Begin,1
+901,901,Begin,1
+901,901,Orange juice,8
+901,901,Grape juice,1
+901,901,Apple juice,12
+901,901,Orange juice,32
+901,901,Begin,1
+902,902,Begin,1
+902,902,Prune juice,5
+902,902,Lemon juice,8
+902,902,Orange juice,40
+902,902,Begin,1
+903,903,Begin,1
+903,903,Grape juice,9
+903,903,Orange juice,44
+903,903,Begin,1
+904,904,Begin,1
+904,904,Orange juice,8
+904,904,Grape juice,20
+904,904,Orange juice,3
+904,904,Apple juice,12
+904,904,Grapefruit juice,4
+904,904,Apple juice,6
+904,904,Begin,1
+905,905,Begin,1
+905,905,Orange juice,8
+905,905,Grapefruit juice,8
+905,905,Orange juice,37
+905,905,Begin,1
+906,906,Begin,1
+906,906,Apple juice,53
+906,906,Begin,1
+907,907,Begin,1
+907,907,Grapefruit juice,6
+907,907,Orange juice,47
+907,907,Begin,1
+908,908,Begin,1
+908,908,Orange juice,8
+908,908,Apple juice,13
+908,908,Orange juice,32
+908,908,Begin,1
+909,909,Begin,1
+909,909,Orange juice,53
+909,909,Begin,1
+910,910,Begin,1
+910,910,Pineapple juice,1
+910,910,Grapefruit juice,12
+910,910,Orange juice,2
+910,910,Grapefruit juice,1
+910,910,Orange juice,26
+910,910,Apple juice,11
+910,910,Begin,1
+911,911,Begin,1
+911,911,Orange juice,53
+911,911,Begin,1
+912,912,Begin,1
+912,912,Grape juice,2
+912,912,Orange juice,5
+912,912,Apple juice,34
+912,912,Orange juice,12
+912,912,Begin,1
+913,913,Begin,1
+913,913,Orange juice,53
+913,913,Begin,1
+914,914,Begin,1
+914,914,Grape juice,2
+914,914,Orange juice,51
+914,914,Begin,1
+915,915,Begin,1
+915,915,Orange juice,53
+915,915,Begin,1
+916,916,Begin,1
+916,916,Prune juice,3
+916,916,Grape juice,20
+916,916,Orange juice,30
+916,916,Begin,1
+917,917,Begin,1
+917,917,Orange juice,20
+917,917,Grapefruit juice,6
+917,917,Orange juice,27
+917,917,Begin,1
+918,918,Begin,1
+918,918,Orange juice,25
+918,918,Grape juice,20
+918,918,Apple juice,8
+918,918,Begin,1
+919,919,Begin,1
+919,919,Orange juice,20
+919,919,Grapefruit juice,1
+919,919,Orange juice,17
+919,919,Pineapple juice,2
+919,919,Apple juice,1
+919,919,Orange juice,12
+919,919,Begin,1
+920,920,Begin,1
+920,920,Pineapple juice,30
+920,920,Orange juice,23
+920,920,Begin,1
+921,921,Begin,1
+921,921,Orange juice,7
+921,921,Grapefruit juice,11
+921,921,Orange juice,11
+921,921,Grape juice,7
+921,921,Apple juice,17
+921,921,Begin,1
+922,922,Begin,1
+922,922,Orange juice,20
+922,922,Apple juice,19
+922,922,Orange juice,14
+922,922,Begin,1
+923,923,Begin,1
+923,923,Orange juice,8
+923,923,Pineapple juice,5
+923,923,Orange juice,40
+923,923,Begin,1
+924,924,Begin,1
+924,924,Orange juice,42
+924,924,Apple juice,11
+924,924,Begin,1
+925,925,Begin,1
+925,925,Orange juice,17
+925,925,Grape juice,13
+925,925,Orange juice,23
+925,925,Begin,1
+926,926,Begin,1
+926,926,Orange juice,20
+926,926,Apple juice,33
+926,926,Begin,1
+927,927,Begin,1
+927,927,Orange juice,8
+927,927,Pineapple juice,32
+927,927,Apple juice,1
+927,927,Orange juice,1
+927,927,Apple juice,11
+927,927,Begin,1
+928,928,Begin,1
+928,928,Orange juice,33
+928,928,Lemon juice,1
+928,928,Apple juice,19
+928,928,Begin,1
+929,929,Begin,1
+929,929,Grape juice,53
+929,929,Begin,1
+930,930,Begin,1
+930,930,Orange juice,8
+930,930,Apple juice,45
+930,930,Begin,1
+931,931,Begin,1
+931,931,Orange juice,15
+931,931,Grapefruit juice,6
+931,931,Orange juice,21
+931,931,Apple juice,11
+931,931,Begin,1
+932,932,Begin,1
+932,932,Apple juice,3
+932,932,Grape juice,4
+932,932,Grapefruit juice,7
+932,932,Cranberry juice,16
+932,932,Orange juice,23
+932,932,Begin,1
+933,933,Begin,1
+933,933,Apple juice,3
+933,933,Grape juice,21
+933,933,Orange juice,29
+933,933,Begin,1
+934,934,Begin,1
+934,934,Orange juice,12
+934,934,Apple juice,29
+934,934,Pineapple juice,7
+934,934,Grape juice,5
+934,934,Begin,1
+935,935,Begin,1
+935,935,Orange juice,29
+935,935,Grape juice,24
+935,935,Begin,1
+936,936,Begin,1
+936,936,Orange juice,7
+936,936,Grapefruit juice,3
+936,936,Orange juice,35
+936,936,Apple juice,8
+936,936,Begin,1
+937,937,Begin,1
+937,937,Orange juice,20
+937,937,Lemon juice,12
+937,937,Apple juice,21
+937,937,Begin,1
+938,938,Begin,1
+938,938,Grapefruit juice,10
+938,938,Orange juice,43
+938,938,Begin,1
+939,939,Begin,1
+939,939,Orange juice,20
+939,939,Pineapple juice,33
+939,939,Begin,1
+940,940,Begin,1
+940,940,Orange juice,53
+940,940,Begin,1
+941,941,Begin,1
+941,941,Orange juice,53
+941,941,Begin,1
+942,942,Begin,1
+942,942,Orange juice,53
+942,942,Begin,1
+943,943,Begin,1
+943,943,Orange juice,1
+943,943,Apple juice,1
+943,943,Orange juice,51
+943,943,Begin,1
+944,944,Begin,1
+944,944,Apple juice,16
+944,944,Orange juice,37
+944,944,Begin,1
+945,945,Begin,1
+945,945,Grape juice,2
+945,945,Orange juice,23
+945,945,Grape juice,5
+945,945,Lemon juice,23
+945,945,Begin,1
+946,946,Begin,1
+946,946,Pineapple juice,37
+946,946,Prune juice,16
+946,946,Begin,1
+947,947,Begin,1
+947,947,Orange juice,12
+947,947,Apple juice,41
+947,947,Begin,1
+948,948,Begin,1
+948,948,Orange juice,53
+948,948,Begin,1
+949,949,Begin,1
+949,949,Apple juice,2
+949,949,Orange juice,15
+949,949,Apple juice,36
+949,949,Begin,1
+950,950,Begin,1
+950,950,Orange juice,25
+950,950,Pineapple juice,5
+950,950,Orange juice,23
+950,950,Begin,1
+951,951,Begin,1
+951,951,Orange juice,14
+951,951,Apple juice,7
+951,951,Orange juice,8
+951,951,Grapefruit juice,15
+951,951,Grape juice,1
+951,951,Apple juice,8
+951,951,Begin,1
+952,952,Begin,1
+952,952,Orange juice,53
+952,952,Begin,1
+953,953,Begin,1
+953,953,Orange juice,25
+953,953,Grape juice,1
+953,953,Orange juice,27
+953,953,Begin,1
+954,954,Begin,1
+954,954,Apple juice,53
+954,954,Begin,1
+955,955,Begin,1
+955,955,Orange juice,7
+955,955,Apple juice,28
+955,955,Lemon juice,18
+955,955,Begin,1
+956,956,Begin,1
+956,956,Prune juice,5
+956,956,Lemon juice,9
+956,956,Apple juice,1
+956,956,Grapefruit juice,6
+956,956,Orange juice,16
+956,956,Grape juice,16
+956,956,Begin,1
+957,957,Begin,1
+957,957,Orange juice,17
+957,957,Grapefruit juice,1
+957,957,Orange juice,2
+957,957,Apple juice,33
+957,957,Begin,1
+958,958,Begin,1
+958,958,Orange juice,32
+958,958,Cranberry juice,21
+958,958,Begin,1
+959,959,Begin,1
+959,959,Grapefruit juice,6
+959,959,Orange juice,19
+959,959,Grape juice,13
+959,959,Pineapple juice,10
+959,959,Grape juice,5
+959,959,Begin,1
+960,960,Begin,1
+960,960,Grapefruit juice,2
+960,960,Orange juice,51
+960,960,Begin,1
+961,961,Begin,1
+961,961,Grapefruit juice,13
+961,961,Grape juice,2
+961,961,Grapefruit juice,11
+961,961,Orange juice,27
+961,961,Begin,1
+962,962,Begin,1
+962,962,Grape juice,5
+962,962,Lemon juice,7
+962,962,Apple juice,1
+962,962,Orange juice,40
+962,962,Begin,1
+963,963,Begin,1
+963,963,Orange juice,42
+963,963,Cranberry juice,11
+963,963,Begin,1
+964,964,Begin,1
+964,964,Orange juice,53
+964,964,Begin,1
+965,965,Begin,1
+965,965,Apple juice,13
+965,965,Orange juice,40
+965,965,Begin,1
+966,966,Begin,1
+966,966,Apple juice,13
+966,966,Orange juice,20
+966,966,Apple juice,8
+966,966,Lemon juice,12
+966,966,Begin,1
+967,967,Begin,1
+967,967,Orange juice,17
+967,967,Apple juice,4
+967,967,Orange juice,32
+967,967,Begin,1
+968,968,Begin,1
+968,968,Orange juice,37
+968,968,Grapefruit juice,3
+968,968,Apple juice,13
+968,968,Begin,1
+969,969,Begin,1
+969,969,Grapefruit juice,6
+969,969,Orange juice,47
+969,969,Begin,1
+970,970,Begin,1
+970,970,Orange juice,45
+970,970,Apple juice,8
+970,970,Begin,1
+971,971,Begin,1
+971,971,Grapefruit juice,5
+971,971,Lemon juice,1
+971,971,Orange juice,31
+971,971,Grape juice,16
+971,971,Begin,1
+972,972,Begin,1
+972,972,Orange juice,29
+972,972,Grape juice,13
+972,972,Apple juice,11
+972,972,Begin,1
+973,973,Begin,1
+973,973,Orange juice,53
+973,973,Begin,1
+974,974,Begin,1
+974,974,Pineapple juice,2
+974,974,Orange juice,51
+974,974,Begin,1
+975,975,Begin,1
+975,975,Pineapple juice,23
+975,975,Orange juice,30
+975,975,Begin,1
+976,976,Begin,1
+976,976,Orange juice,29
+976,976,Grape juice,13
+976,976,Apple juice,11
+976,976,Begin,1
+977,977,Begin,1
+977,977,Orange juice,53
+977,977,Begin,1
+978,978,Begin,1
+978,978,Orange juice,8
+978,978,Grape juice,20
+978,978,Orange juice,25
+978,978,Begin,1
+979,979,Begin,1
+979,979,Pineapple juice,24
+979,979,Orange juice,29
+979,979,Begin,1
+980,980,Begin,1
+980,980,Grape juice,9
+980,980,Apple juice,44
+980,980,Begin,1
+981,981,Begin,1
+981,981,Orange juice,20
+981,981,Apple juice,33
+981,981,Begin,1
+982,982,Begin,1
+982,982,Pineapple juice,4
+982,982,Apple juice,26
+982,982,Orange juice,6
+982,982,Apple juice,17
+982,982,Begin,1
+983,983,Begin,1
+983,983,Orange juice,42
+983,983,Cranberry juice,11
+983,983,Begin,1
+984,984,Begin,1
+984,984,Grapefruit juice,6
+984,984,Orange juice,11
+984,984,Grape juice,7
+984,984,Grapefruit juice,11
+984,984,Grape juice,7
+984,984,Apple juice,1
+984,984,Orange juice,10
+984,984,Begin,1
+985,985,Begin,1
+985,985,Orange juice,20
+985,985,Grapefruit juice,15
+985,985,Grape juice,3
+985,985,Apple juice,5
+985,985,Grape juice,10
+985,985,Begin,1
+986,986,Begin,1
+986,986,Orange juice,36
+986,986,Apple juice,17
+986,986,Begin,1
+987,987,Begin,1
+987,987,Orange juice,20
+987,987,Grapefruit juice,25
+987,987,Apple juice,8
+987,987,Begin,1
+988,988,Begin,1
+988,988,Grapefruit juice,13
+988,988,Grape juice,3
+988,988,Orange juice,17
+988,988,Apple juice,8
+988,988,Orange juice,12
+988,988,Begin,1
+989,989,Begin,1
+989,989,Orange juice,53
+989,989,Begin,1
+990,990,Begin,1
+990,990,Apple juice,21
+990,990,Orange juice,32
+990,990,Begin,1
+991,991,Begin,1
+991,991,Apple juice,13
+991,991,Orange juice,40
+991,991,Begin,1
+992,992,Begin,1
+992,992,Orange juice,1
+992,992,Grapefruit juice,5
+992,992,Orange juice,23
+992,992,Grape juice,13
+992,992,Apple juice,11
+992,992,Begin,1
+993,993,Begin,1
+993,993,Apple juice,3
+993,993,Grapefruit juice,11
+993,993,Apple juice,7
+993,993,Grape juice,32
+993,993,Begin,1
+994,994,Begin,1
+994,994,Orange juice,53
+994,994,Begin,1
+995,995,Begin,1
+995,995,Orange juice,7
+995,995,Grapefruit juice,15
+995,995,Grape juice,6
+995,995,Apple juice,7
+995,995,Grape juice,3
+995,995,Grapefruit juice,7
+995,995,Apple juice,8
+995,995,Begin,1
+996,996,Begin,1
+996,996,Orange juice,1
+996,996,Grapefruit juice,9
+996,996,Orange juice,43
+996,996,Begin,1
+997,997,Begin,1
+997,997,Grape juice,15
+997,997,Lemon juice,4
+997,997,Grapefruit juice,21
+997,997,Apple juice,13
+997,997,Begin,1
+998,998,Begin,1
+998,998,Orange juice,31
+998,998,Prune juice,22
+998,998,Begin,1
+999,999,Begin,1
+999,999,Orange juice,25
+999,999,Grape juice,3
+999,999,Orange juice,3
+999,999,Grapefruit juice,13
+999,999,Grape juice,9
+999,999,Begin,1
